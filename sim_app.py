@@ -52,15 +52,17 @@ mediumlink = '[Andy Uttley - Medium Blog](https://andy-uttley.medium.com/)'
 st.write("# 🤖🤖 JB Simulator 🤖🤖")
 gw_current = results_to_date['GW'].max()
 st.write("### Data scraped up to and including GW: ", gw_current)
-st.write("### Simulating the remaining ", 36-gw_current, " gameweeks 1,000 times to see what might happen")
+st.write("Simulating the remaining ", 36-gw_current, " gameweeks 1,000 times to see what might happen")
 st.image('jimmy.jpeg')
 
 ##################################### headline dynamic text ###########################################
-st.write("### 🥇 Most likely to make playoffs are: 🥇")
+st.write ("### 🥇🥇🥇🥇")
+st.write("### The 4 most likely to make playoffs are:")
 top_table = top4[['player1name', '% chance of making playoffs']][:4]
 top_table['Model confidence in making playoffs'] = top_table['% chance of making playoffs']
 top_table.drop(['% chance of making playoffs'], axis=1, inplace=True)
 st.dataframe(top_table)
+st.write ("### 🥇🥇🥇🥇")
 
 
 ###################################### show current table #########################################################
