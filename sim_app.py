@@ -50,7 +50,7 @@ linkedinlink = '[Andy Uttley - LinkedIn](https://www.linkedin.com/in/andrewuttle
 mediumlink = '[Andy Uttley - Medium Blog](https://andy-uttley.medium.com/)'
 
 st.write("# 🤖🤖 JB Simulator 🤖🤖")
-gw_current = current_table['GW'].max()
+gw_current = results_to_date['GW'].max()
 st.write("### Data scraped up to and including GW: ", gw_current)
 st.image('jimmy.jpeg')
 
