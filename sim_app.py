@@ -49,11 +49,11 @@ fourthpos = top4_list[3]
 linkedinlink = '[Andy Uttley - LinkedIn](https://www.linkedin.com/in/andrewuttley/)'
 mediumlink = '[Andy Uttley - Medium Blog](https://andy-uttley.medium.com/)'
 
-st.write("# 🤖🤖🤖🤖 JB Simulator 🤖🤖🤖🤖")
+st.write("# 🤖🤖 JB Simulator 🤖🤖")
 st.image('jimmy.jpeg')
 
 ##################################### headline dynamic text ###########################################
-st.write("### 🥇 The 4 most likely to make playoffs are: 🥇")
+st.write("### 🥇 Most likely to make playoffs are: 🥇")
 top_table = top4[['player1name', '% chance of making playoffs']][:4]
 top_table['Model confidence in making playoffs'] = top_table['% chance of making playoffs']
 top_table.drop(['% chance of making playoffs'], axis=1, inplace=True)
