@@ -12,7 +12,7 @@ from fractions import Fraction
 
 ################################## BRING IN DATA and calcs ##################################
 # bring in data and drop columns
-results_to_date = pd.read_csv('/Users/andrewuttley/Desktop/2022_actual_results.csv')
+results_to_date = pd.read_csv('2022_actual_results.csv')
 results_to_date.drop(columns='Unnamed: 0', inplace=True)
 results_to_date['player1name'] = results_to_date['player1name'].str[:22]
 # aggregate to an actual table (Rather than gw points)
@@ -23,7 +23,7 @@ current_table = current_table.sort_values(by=['tablepoints', 'player1score'], as
 col_one_list = current_table.reset_index()['player1name'].tolist()
 
 # bring in sim data and drop columns
-sim_tables = pd.read_csv('/Users/andrewuttley/Desktop/2022_simmed_results.csv')
+sim_tables = pd.read_csv('2022_simmed_results.csv')
 sim_tables.drop(columns='Unnamed: 0', inplace=True)
 sim_tables['player1name'] = sim_tables['player1name'].str[:22]
 
