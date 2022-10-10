@@ -52,6 +52,7 @@ mediumlink = '[Andy Uttley - Medium Blog](https://andy-uttley.medium.com/)'
 st.write("# 🤖🤖 JB Simulator 🤖🤖")
 gw_current = results_to_date['GW'].max()
 st.write("### Data scraped up to and including GW: ", gw_current)
+st.write("### Simulating the remaining ", 36-gw_current, " gameweeks 1,000 times to see what might happen")
 st.image('jimmy.jpeg')
 
 ##################################### headline dynamic text ###########################################
