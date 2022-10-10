@@ -1,13 +1,8 @@
 import streamlit as st
 import pandas as pd
-import plotly.figure_factory as ff
-import scipy
 import numpy as np
 import seaborn as sns
-import matplotlib.pyplot as plt
-import plotly.express as px
-import pybettor
-from fractions import Fraction
+
 
 
 ################################## BRING IN DATA and calcs ##################################
