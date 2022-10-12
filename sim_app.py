@@ -61,6 +61,7 @@ st.write("### 🥇 The most likely playoffs places are:")
 top_table = top4[['player1name', '% chance of making playoffs']][:4]
 top_table['Model confidence in making playoffs'] = top_table['% chance of making playoffs']
 top_table.drop(['% chance of making playoffs'], axis=1, inplace=True)
+top_table.reset_index(drop=True, inplace=True)
 st.dataframe(top_table)
 
 
