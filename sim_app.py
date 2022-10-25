@@ -171,6 +171,7 @@ if show_lk_ranks:
         u['tablepoints'] = u['tablepoints'].astype(int)
         u['Luck Delta'] = u['tablepoints'] - u['Luck Adjusted Pts']
         u['Luck Status'] = np.where(u['Luck Delta']<0, 'Unlucky', 'Lucky')
+        u['Luck Status'] = np.where(u[u['Luck Delta'] == u['Luck Delta'].max()], 'MOST Unlucky', u['Luck Status'])
         u
         
         t = u
