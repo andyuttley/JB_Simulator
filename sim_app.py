@@ -170,6 +170,7 @@ if show_lk_ranks:
         u = u.sort_values(by=['Luck Adjusted Pts', 'player1score'], ascending=False)
         u['tablepoints'] = u['tablepoints'].astype(int)
         u['Luck Delta'] = u['tablepoints'] - u['Luck Adjusted Pts']
+        u['Luck Status'] = np.where(u['Luck Adjusted Pts']<0, 'Unlucky', 'Lucky')
         u
         
         t = u
