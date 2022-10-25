@@ -164,6 +164,7 @@ st.write("(note: his is one of many methods to adjust for luck)")
 show_lk_ranks = st.checkbox("Show luck adjusted table", value=False)
 if show_lk_ranks:
         results_to_date['Luck Adjusted Pts'] = np.where(results_to_date['GW_rank']<7, 1, 0)
+        results_to_date['Luck Adjusted Pts'] = np.where(results_to_date['GW_rank']<6, 2, results_to_date['Luck Adjusted Pts'])
         results_to_date['Luck Adjusted Pts'] = np.where(results_to_date['GW_rank']<5, 3, results_to_date['Luck Adjusted Pts'])
         u = results_to_date.groupby(by=['player1name']).sum()
         u = u[['Luck Adjusted Pts', 'tablepoints', 'player1score']]
