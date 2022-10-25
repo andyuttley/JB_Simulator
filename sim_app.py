@@ -174,7 +174,7 @@ if show_lk_ranks:
         u
         
         t = u
-        t['Luck Delta'].sum()
+        t = t['Luck Delta'].sum()
         t
 
 
