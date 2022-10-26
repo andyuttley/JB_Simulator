@@ -189,7 +189,7 @@ if show_gw_ranks:
         r_ct
 
 st.write("## Luck adjusted table")
-st.write("Showing table if being in top 4 places gave you 3 points, positions 5 and 6 draw - removing the uncontrollable variable of your opponents score")
+st.write("Showing table if being in top 4 places gave you a win, positions 5 and 6 a draw. This removes the uncontrollable variable of your opponents score")
 show_lk_ranks = st.checkbox("Show luck adjusted table", value=False)
 if show_lk_ranks:
         
