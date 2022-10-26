@@ -39,6 +39,28 @@ secondpos = top4_list[1]
 thirdpos = top4_list[2]
 fourthpos = top4_list[3]
 
+# luck
+results_to_date['Luck Adjusted Pts'] = np.where(results_to_date['GW_rank']<7, 1, 0)
+results_to_date['Luck Adjusted Pts'] = np.where(results_to_date['GW_rank']<5, 3, results_to_date['Luck Adjusted Pts'])
+u = results_to_date.groupby(by=['player1name']).sum()
+u = u[['Luck Adjusted Pts', 'tablepoints', 'player1score']]
+u = u.sort_values(by=['Luck Adjusted Pts', 'player1score'], ascending=False)
+u['tablepoints'] = u['tablepoints'].astype(int)
+u['Luck Delta'] = u['tablepoints'] - u['Luck Adjusted Pts']
+u['Luck Status'] = np.where(u['Luck Delta']<0, 'Unlucky', 'Lucky')
+u['Luck Status'] = np.where(u['Luck Delta']==0, 'Net Even', u['Luck Status'])
+#u['Luck Status'] = np.where(u[u['Luck Delta'] == u['Luck Delta'].max()], 'MOST Unlucky', u['Luck Status'])
+is_max = u['Luck Delta'].max()
+is_min = u['Luck Delta'].min()
+u['Luck Status'] = np.where(u['Luck Delta']==is_max, 'MOST LUCKY', u['Luck Status'])
+u['Luck Status'] = np.where(u['Luck Delta']==is_min, 'MOST UNLUCKY', u['Luck Status'])
+u.drop('player1score', inplace=True, axis=1)
+
+
+lucky_player = u.index[u['Luck Status'] == "MOST LUCKY"][0]
+unlucky_player = u.index[u['Luck Status'] == "MOST UNLUCKY"][0]
+
+
 
 
 
@@ -63,6 +85,12 @@ top_table['Model confidence in making playoffs'] = top_table['% chance of making
 top_table.drop(['% chance of making playoffs'], axis=1, inplace=True)
 top_table.set_index('player1name', inplace=True)
 st.dataframe(top_table)
+
+st.write("### 🎰 The most lucky and unlucky players are:")
+st.write("🤬 Most unlucky: ", unlucky_player)
+st.write("🍀 Most lucky: ", lucky_player)
+st.write("")
+st.write("Scroll down for more...")
 
 
 ###################################### show current table #########################################################
@@ -162,30 +190,11 @@ st.write("## Luck adjusted table")
 st.write("Showing table if being in top 4 places gave you 3 points, positions 5 and 6 draw - removing the uncontrollable variable of your opponents score")
 show_lk_ranks = st.checkbox("Show luck adjusted table", value=False)
 if show_lk_ranks:
-        results_to_date['Luck Adjusted Pts'] = np.where(results_to_date['GW_rank']<7, 1, 0)
-        results_to_date['Luck Adjusted Pts'] = np.where(results_to_date['GW_rank']<5, 3, results_to_date['Luck Adjusted Pts'])
-        u = results_to_date.groupby(by=['player1name']).sum()
-        u = u[['Luck Adjusted Pts', 'tablepoints', 'player1score']]
-        u = u.sort_values(by=['Luck Adjusted Pts', 'player1score'], ascending=False)
-        u['tablepoints'] = u['tablepoints'].astype(int)
-        u['Luck Delta'] = u['tablepoints'] - u['Luck Adjusted Pts']
-        u['Luck Status'] = np.where(u['Luck Delta']<0, 'Unlucky', 'Lucky')
-        u['Luck Status'] = np.where(u['Luck Delta']==0, 'Net Even', u['Luck Status'])
-        #u['Luck Status'] = np.where(u[u['Luck Delta'] == u['Luck Delta'].max()], 'MOST Unlucky', u['Luck Status'])
-        is_max = u['Luck Delta'].max()
-        is_min = u['Luck Delta'].min()
-        u['Luck Status'] = np.where(u['Luck Delta']==is_max, 'MOST LUCKY', u['Luck Status'])
-        u['Luck Status'] = np.where(u['Luck Delta']==is_min, 'MOST UNLUCKY', u['Luck Status'])
-        u.drop('player1score', inplace=True, axis=1)
         
+
         
-        lucky_player = u.index[u['Luck Status'] == "MOST LUCKY"][0]
-        unlucky_player = u.index[u['Luck Status'] == "MOST UNLUCKY"][0]
-        
-        st.write("🤬 The most unlucky player so far is: ", unlucky_player)
-        st.write("🍀 The most lucky player so far is: ", lucky_player)
         st.write("")
-        st.text("In a perfect world, the table might look a bit more like this:")
+        st.write("In a perfect world, the table might look a bit more like this:")
         u
         
         st.text("But the JB shield is no fairy-tale world...")
