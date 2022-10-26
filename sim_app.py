@@ -79,19 +79,19 @@ st.image('jimmy.jpeg')
 
 ##################################### headline dynamic text ###########################################
 
-st.write("### 🥇 The most likely playoffs places are:")
+st.write("#### 🥇 The most likely playoffs places are:")
 top_table = top4[['player1name', '% chance of making playoffs']][:4]
 top_table['Model confidence in making playoffs'] = top_table['% chance of making playoffs']
 top_table.drop(['% chance of making playoffs'], axis=1, inplace=True)
 top_table.set_index('player1name', inplace=True)
 st.dataframe(top_table)
 
-st.write("### 🎰 I should be so lucky")
+st.write("#### 🎰 I should be so lucky")
 st.write("🤬 Most unlucky: ", unlucky_player)
 st.write("🍀 Most lucky: ", lucky_player)
 st.write("")
 
-st.text(".*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.")
+st.text(".*.*.*.*.*.*.*.*.*.*.*.")
 
 st.write("")
 st.write("Scroll down for more...")
