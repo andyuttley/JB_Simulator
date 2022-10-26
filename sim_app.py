@@ -181,7 +181,10 @@ if show_lk_ranks:
         u
         
         lucky_player = u.index[u['Luck Status'] == "MOST LUCKY"][0]
-        lucky_player
+        unlucky_player = u.index[u['Luck Status'] == "MOST UNLUCKY"][0]
+        
+        st.write("The most unlucky player so far is: ", unlucky_player)
+        st.write("The most lucky player so far is: ", lucky_player)
 
         t = u['Luck Delta'].sum()
         st.write("NB: there is a difference of ", t, " points between the actual table and luck adjusted table. This is explained by the luck table always assuming 14 table points awared per wk on average (3 people win, 2 people draw). The real table is sporadic (e.g. sometimes 5 people win, sometimes (e.g. gw7) everyone draws, sometimes something in between).") 
