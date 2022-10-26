@@ -185,7 +185,7 @@ if show_lk_ranks:
         st.write("The most unlucky player so far is: 🤬🤬 ", unlucky_player, " 🤬🤬")
         st.write("The most lucky player so far is: 🍀🍀 ", lucky_player, " 🍀🍀")
         st.write("")
-        st.write("In a perfect world, the table might look a bit more like this:")
+        st.text("In a perfect world, the table might look a bit more like this:")
         u
         
         st.text("But the JB shield is no fairy-tale world...")
