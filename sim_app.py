@@ -174,7 +174,7 @@ if show_lk_ranks:
         #u['Luck Status'] = np.where(u[u['Luck Delta'] == u['Luck Delta'].max()], 'MOST Unlucky', u['Luck Status'])
         is_max = u['Luck Delta'].max()
         is_min = u['Luck Delta'].min()
-        u['Luck Status2'] = np.where(u['Luck Delta']==is_max[0], 'MOST LUCKY', 'Luck Status')
+        u['Luck Status2'] = np.where(u['Luck Delta']==is_max, 'MOST LUCKY', u['Luck Status'])
         
         u
         is_max
