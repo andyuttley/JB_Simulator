@@ -203,7 +203,7 @@ if show_lk_ranks:
         st.write("")
 
         t = u['Luck Delta'].sum()
-        st.write("NB: there is a difference of ", t, " points between the actual table and luck adjusted table. This is explained by the luck table always assuming 14 table points awared per wk: 4 people win, 2 people draw. The real table is volatile: sometimes 5 people win, sometimes (e.g. gw7) everyone draws, sometimes something in between).") 
+        st.write("NB: there is a difference of ", t, " points between the actual table and luck adjusted table. This is explained by the luck table always assuming 14 table points awared per wk: 4 people win, 2 people draw. The real table is volatile: sometimes 5 people win, sometimes (e.g. gw7) everyone draws, sometimes something inbetween).") 
 
 
 
