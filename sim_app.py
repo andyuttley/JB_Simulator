@@ -176,7 +176,7 @@ if show_lk_ranks:
         is_min = u['Luck Delta'].min()
         u['Luck Status'] = np.where(u['Luck Delta']==is_max, 'MOST LUCKY', u['Luck Status'])
         u['Luck Status'] = np.where(u['Luck Delta']==is_min, 'MOST UNLUCKY', u['Luck Status'])
-        
+        u.drop('player1score', inplace=True, axis=1)
         u
         
         
