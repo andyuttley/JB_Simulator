@@ -86,13 +86,16 @@ top_table.drop(['% chance of making playoffs'], axis=1, inplace=True)
 top_table.set_index('player1name', inplace=True)
 st.dataframe(top_table)
 
-st.write("### 🎰 The most lucky and unlucky players are:")
+st.write("### 🎰 I should be so lucky")
 st.write("🤬 Most unlucky: ", unlucky_player)
 st.write("🍀 Most lucky: ", lucky_player)
 st.write("")
 st.write("Scroll down for more...")
 
-
+st.write("### ⚽ ⚽ ⚽ ")
+st.write("###  ⚽ ⚽ ⚽ ")
+st.write("### ⚽ ⚽ ⚽ ")
+st.write("###  ⚽ ⚽ ⚽ ")
 ###################################### show current table #########################################################
 st.write("""## Current Table""")
 showtable = st.checkbox("Show current table" , value=False)
