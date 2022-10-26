@@ -181,7 +181,7 @@ if show_lk_ranks:
         u
         
         lucky_player = u[u['Luck Status'] == "MOST LUCKY"]
-        lucky_player = lucky_player.index
+        lucky_player = lucky_player.index()
         lucky_player
 
         t = u['Luck Delta'].sum()
