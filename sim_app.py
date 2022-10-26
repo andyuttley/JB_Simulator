@@ -180,7 +180,7 @@ if show_lk_ranks:
         u.drop('player1score', inplace=True, axis=1)
         u
         
-        lucky_player = u.index[u['Luck Status'] == "MOST LUCKY"].tolist()
+        lucky_player = u.index[u['Luck Status'] == "MOST LUCKY"]
         lucky_player
 
         t = u['Luck Delta'].sum()
