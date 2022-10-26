@@ -91,10 +91,8 @@ st.write("🤬 Most unlucky: ", unlucky_player)
 st.write("🍀 Most lucky: ", lucky_player)
 st.write("")
 
-st.write("### ⚽.⚽.⚽. ")
-st.write("### .⚽.⚽.⚽ ")
-st.write("### ⚽.⚽.⚽. ")
-st.write("### .⚽.⚽.⚽ ")
+st.text("### *.*.*.*.*.*.*.*.")
+
 st.write("")
 st.write("Scroll down for more...")
 ###################################### show current table #########################################################
