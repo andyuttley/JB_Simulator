@@ -182,8 +182,8 @@ if show_lk_ranks:
         lucky_player = u.index[u['Luck Status'] == "MOST LUCKY"][0]
         unlucky_player = u.index[u['Luck Status'] == "MOST UNLUCKY"][0]
         
-        st.write("The most unlucky player so far is: 🤬🤬 ", unlucky_player, " 🤬🤬")
-        st.write("The most lucky player so far is: 🍀🍀 ", lucky_player, " 🍀🍀")
+        st.write("🤬 The most unlucky player so far is: ", unlucky_player)
+        st.write("🍀 The most lucky player so far is: ", lucky_player)
         st.write("")
         st.text("In a perfect world, the table might look a bit more like this:")
         u
