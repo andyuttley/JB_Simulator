@@ -87,8 +87,8 @@ top_table.set_index('player1name', inplace=True)
 st.dataframe(top_table)
 
 st.write("#### 🎰 I should be so lucky")
-st.write("Most unlucky: ", unlucky_player)
-st.write("Most lucky: ", lucky_player)
+st.write("Most UNLUCKY: ", unlucky_player)
+st.write("Most LUCKY: ", lucky_player)
 st.write("")
 
 st.text(".*.*.*.*.*.*.*.*.*.*.*.")
