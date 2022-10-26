@@ -159,7 +159,7 @@ if show_gw_ranks:
         r_ct
 
 st.write("## Luck adjusted table")
-st.write("Showing table if being in top 5 places gave you 3 points - removing the uncontrollable variable of your opponents score")
+st.write("Showing table if being in top 4 places gave you 3 points, positions 5 and 6 draw - removing the uncontrollable variable of your opponents score")
 st.write("(note: his is one of many methods to adjust for luck)")
 show_lk_ranks = st.checkbox("Show luck adjusted table", value=False)
 if show_lk_ranks:
@@ -174,15 +174,15 @@ if show_lk_ranks:
         #u['Luck Status'] = np.where(u[u['Luck Delta'] == u['Luck Delta'].max()], 'MOST Unlucky', u['Luck Status'])
         is_max = u['Luck Delta'].max()
         is_min = u['Luck Delta'].min()
-        u['Luck Status2'] = np.where(u['Luck Delta']==is_max, 'MOST LUCKY', u['Luck Status'])
+        u['Luck Status'] = np.where(u['Luck Delta']==is_max, 'MOST LUCKY', u['Luck Status'])
+        u['Luck Status'] = np.where(u['Luck Delta']==is_min, 'MOST UNLUCKY', u['Luck Status'])
         
         u
-        is_max
-        is_min
         
-        t = u
-        t = t['Luck Delta'].sum()
-        t
+        
+
+        t = u['Luck Delta'].sum()
+        st.write("NB: there is a difference of ", t, " points between the actual table and luck adjusted table. This is explained by the luck table always assuming 14 table points awared per wk on average (3 people win, 2 people draw). The real table is sporadic (e.g. sometimes 5 people win, sometimes (e.g. gw7) everyone draws, sometimes something in between). 
 
 
 
