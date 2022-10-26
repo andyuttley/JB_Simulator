@@ -160,7 +160,6 @@ if show_gw_ranks:
 
 st.write("## Luck adjusted table")
 st.write("Showing table if being in top 4 places gave you 3 points, positions 5 and 6 draw - removing the uncontrollable variable of your opponents score")
-st.write("(note: his is one of many methods to adjust for luck)")
 show_lk_ranks = st.checkbox("Show luck adjusted table", value=False)
 if show_lk_ranks:
         results_to_date['Luck Adjusted Pts'] = np.where(results_to_date['GW_rank']<7, 1, 0)
