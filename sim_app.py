@@ -172,6 +172,10 @@ if show_lk_ranks:
         u['Luck Delta'] = u['tablepoints'] - u['Luck Adjusted Pts']
         u['Luck Status'] = np.where(u['Luck Delta']<0, 'Unlucky', 'Lucky')
         #u['Luck Status'] = np.where(u[u['Luck Delta'] == u['Luck Delta'].max()], 'MOST Unlucky', u['Luck Status'])
+        is_max = u.groupby(by='player1name')['Luck Delta').max()
+        is_min = u.groupby(by='player1name')['Luck Delta').min()
+        u.plans_offered.groupby(df.experiment_id).transform('max') == df.plans_offered
+        df['flag'] = np.where(is_max, 'More Plans', 'Less Plans')
         u
         
         t = u
