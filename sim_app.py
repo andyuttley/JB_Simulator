@@ -25,8 +25,8 @@ sim_tables['player1name'] = sim_tables['player1name'].str[:22]
 #Top 4
 top4 = sim_tables[sim_tables['Season_rank']<=5].groupby(by='player1name').count()['Season_rank'].reset_index()
 top4['Top 4 finishes'] = top4['Season_rank']
-top4['% chance of making playoffs'] = top4['Top 4 finishes']/1000*100
-top4['% chance of making playoffs'] = top4['% chance of making playoffs'].round(2).astype(str) + "%"
+top4['% of playoffs'] = top4['Top 4 finishes']/1000*100
+top4['% of playoffs'] = top4['% of playoffs'].round(2).astype(str) + "%"
 top4.drop(['Season_rank'], axis=1, inplace=True)
 top4['odds'] = top4['Top 4 finishes']/1000*100
 top4['Odds of top 4'] = ((100/top4['odds']-1)).round(2).astype(str)+'/1'
