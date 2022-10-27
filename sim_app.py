@@ -95,7 +95,7 @@ st.write("")
 st.text(".*.*.*.*.*.*.*.*.*.*.*.")
 
 st.write("")
-st.write("Scroll down for more...")
+st.write(" ")
 ###################################### show current table #########################################################
 st.write("""## Current Table""")
 showtable = st.checkbox("Show current table" , value=False)
