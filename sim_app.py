@@ -86,6 +86,9 @@ top_table.drop(['% chance of making playoffs'], axis=1, inplace=True)
 top_table.set_index('player1name', inplace=True)
 st.dataframe(top_table)
 
+
+st.write("")
+st.text(".*.*.*.*.*.*.*.*.*.*.*.")
 st.write("")
 st.write("#### 🎰 I should be so lucky")
 st.write("Most UNLUCKY:   ", unlucky_player)
