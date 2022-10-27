@@ -89,12 +89,9 @@ st.dataframe(top_table)
 
 st.write("")
 st.text(".*.*.*.*.*.*.*.*.*.*.*.")
-st.write("")
 st.write("#### 🎰 I should be so lucky")
 st.write("Most UNLUCKY:   ", unlucky_player)
 st.write("Most LUCKY:   ", lucky_player)
-st.write("")
-
 st.text(".*.*.*.*.*.*.*.*.*.*.*.")
 
 st.write("")
