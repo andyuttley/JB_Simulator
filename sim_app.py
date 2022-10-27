@@ -81,8 +81,8 @@ st.image('jimmy.jpeg')
 
 st.write("#### 🥇 The most likely playoffs places are:")
 top_table = top4[['player1name', '% chance of making playoffs']][:4]
-top_table['Model confidence in making playoffs'] = top_table['% chance of making playoffs']
-top_table.drop(['% chance of making playoffs'], axis=1, inplace=True)
+top_table['Model confidence in making playoffs'] = top_table['% of playoffs'']
+top_table.drop(['% of playoffs''], axis=1, inplace=True)
 top_table.set_index('player1name', inplace=True)
 st.dataframe(top_table)
 
