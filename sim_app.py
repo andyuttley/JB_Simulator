@@ -24,6 +24,7 @@ sim_tables['player1name'] = sim_tables['player1name'].str[:22]
 
 # bring in head to head
 h2h = pd.read_csv('2022_h2h.csv')
+h2h.drop(columns='Unnamed: 0', inplace=True)
 
 # bring in playoffs over time
 pot = pd.read_csv('2022_simmed_playoffs.csv')
@@ -82,7 +83,6 @@ gw_current = results_to_date['GW'].max()
 st.write("### Data scraped up to and including GW: ", gw_current)
 st.write("Simulating the remaining ", 36-gw_current, " gameweeks 1,000 times to see what might happen")
 st.image('jimmy.jpeg')
-st.dataframe(h2h.sort_values(by='win_count', ascending=False))
 
 ##################################### headline dynamic text ###########################################
 
@@ -188,6 +188,11 @@ if showonesim:
         st.write("🥇🥇🥇 It's a HUGE WELL DONE to ", simd['player1name'].iloc[0], " who won simulation ", str(i), " 🥇🥇🥇")
         simd
 
+st.write("## Head to Head each week...")
+st.write("Shows how many weeks out of ", h2h['GWs'][0], " gameweeks that left name beat right")
+st.dataframe(h2h.sort_values(by='win_count', ascending=False))
+
+        
 st.write("## Current GW finishing rankings")
 st.write("Real results only, how many times has each player finished in each ranked spot")
 show_gw_ranks = st.checkbox("Show GW ranked finished to date", value=False)
