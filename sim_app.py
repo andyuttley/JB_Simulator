@@ -193,9 +193,8 @@ st.write("Shows how many weeks out of ", h2h['GWs'][0], " gameweeks that left na
 h2h['% win rate'] = h2h['win_count']/h2h['GWs']*100
 h2h.drop(columns='GWs', inplace=True)
 pnames = h2h['player1name_left'].drop_duplicates()
-make_choice = st.selectbox('Select your player:', pnames)
-h2h2 = h2h[h2h['player1name_left']==make_choice]
-st.dataframe(h2h2.sort_values(by='win_count', ascending=False))
+make_choice = st.multiselect('Select your player:', pnames)
+st.dataframe(h2h[h2h['player1name_left']==make_choice].sort_values(by='win_count', ascending=False))
 
         
 st.write("## Current GW finishing rankings")
