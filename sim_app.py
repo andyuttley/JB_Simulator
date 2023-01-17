@@ -30,7 +30,7 @@ h2h.drop(columns='Unnamed: 0', inplace=True)
 pot = pd.read_csv('2022_simmed_playoffs.csv')
 
 #Top 4
-top4 = sim_tables[sim_tables['Season_rank']<=5].groupby(by='player1name').count()['Season_rank'].reset_index()
+top4 = sim_tables[sim_tables['Season_rank']<=4].groupby(by='player1name').count()['Season_rank'].reset_index()
 top4['Top 4 finishes'] = top4['Season_rank']
 top4['% of playoffs'] = top4['Top 4 finishes']/1000*100
 top4['% of playoffs'] = top4['% of playoffs'].round(2).astype(str) + "%"
