@@ -189,11 +189,11 @@ if showonesim:
         simd
 
 st.write("## Head to Head each week...")
-st.write("Shows how many weeks out of ", h2h['GWs'][0], " gameweeks that left name beat right")
+st.write("Shows how many weeks out of ", h2h['GWs'][0], " gameweeks that left name beat right name. Note that it only counts wins, and not weeks you would have drawn.")
 h2h['% win rate'] = h2h['win_count']/h2h['GWs']*100
 h2h.drop(columns='GWs', inplace=True)
 pnames = h2h['player1name_left'].drop_duplicates()
-make_choice = st.multiselect('Select your player:', pnames)
+make_choice = st.selectbox('Select your player:', pnames)
 st.dataframe(h2h[h2h['player1name_left']==make_choice].sort_values(by='win_count', ascending=False))
 
         
