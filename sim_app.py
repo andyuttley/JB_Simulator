@@ -22,6 +22,12 @@ sim_tables = pd.read_csv('2022_simmed_results.csv')
 sim_tables.drop(columns='Unnamed: 0', inplace=True)
 sim_tables['player1name'] = sim_tables['player1name'].str[:22]
 
+# bring in head to head
+h2h = pd.read_csv('2022_h2h.csv')
+
+# bring in playoffs over time
+pot = pd.read_csv('2022_simmed_playoffs.csv')
+
 #Top 4
 top4 = sim_tables[sim_tables['Season_rank']<=5].groupby(by='player1name').count()['Season_rank'].reset_index()
 top4['Top 4 finishes'] = top4['Season_rank']
@@ -76,6 +82,7 @@ gw_current = results_to_date['GW'].max()
 st.write("### Data scraped up to and including GW: ", gw_current)
 st.write("Simulating the remaining ", 36-gw_current, " gameweeks 1,000 times to see what might happen")
 st.image('jimmy.jpeg')
+st.dataframe(h2h.sort_values(by='win_count', ascending=False))
 
 ##################################### headline dynamic text ###########################################
 
