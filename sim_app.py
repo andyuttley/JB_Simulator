@@ -190,7 +190,10 @@ if showonesim:
 
 st.write("## Head to Head each week...")
 st.write("Shows how many weeks out of ", h2h['GWs'][0], " gameweeks that left name beat right")
-h2h['% win rate'] = h2h['win_count']/h2h['GWs']
+h2h['% win rate'] = h2h['win_count']/h2h['GWs']*100
+h2h.drop(columns='GWs', inplace=True)
+pnames = df['player1name_left'].drop_duplicates()
+make_choice = st.sidebar.selectbox('Select your vehicle:', pnames)
 st.dataframe(h2h.sort_values(by='win_count', ascending=False))
 
         
