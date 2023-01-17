@@ -190,6 +190,7 @@ if showonesim:
 
 st.write("## Head to Head each week...")
 st.write("Shows how many weeks out of ", h2h['GWs'][0], " gameweeks that left name beat right")
+h2h['% win rate'] = h2h['win_count']/h2h['GWs']
 st.dataframe(h2h.sort_values(by='win_count', ascending=False))
 
         
