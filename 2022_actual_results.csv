@@ -1,291 +1,281 @@
-,GW,player1name,player1score,player2name,player2score,result,tablepoints,GW_rank
-0,1,MikeyWade,22,ManeBall ⭐️⭐️⭐️Andy Uttley ,52,Lose,0.0,10.0
-1,1,Fish ⭐️⭐️⭐️Nicholas Warmoth ,51,Cancelo CultureTim Boorman ,36,Win,3.0,3.5
-2,1,Settlers of ZlatanKarl Webster ,51,Tyrannoscorus BecksJohn Marsh ,25,Win,3.0,3.5
-3,1,Sancho RelaxoMike Fill ,32,In Dulcis Memoria LarkimusEd Dove ,39,Lose,0.0,8.0
-4,1,Solano's immaculate bellendSam Watkinson ,46,Howard Brown ⭐️Matt Warmoth ,61,Lose,0.0,5.0
-5,1,ManeBall ⭐️⭐️⭐️Andy Uttley ,52,MikeyWade,22,Win,3.0,2.0
-6,1,Cancelo CultureTim Boorman ,36,Fish ⭐️⭐️⭐️Nicholas Warmoth ,51,Lose,0.0,7.0
-7,1,Tyrannoscorus BecksJohn Marsh ,25,Settlers of ZlatanKarl Webster ,51,Lose,0.0,9.0
-8,1,In Dulcis Memoria LarkimusEd Dove ,39,Sancho RelaxoMike Fill ,32,Win,3.0,6.0
-9,1,Howard Brown ⭐️Matt Warmoth ,61,Solano's immaculate bellendSam Watkinson ,46,Win,3.0,1.0
-10,2,MikeyWade,35,Cancelo CultureTim Boorman ,31,Win,3.0,8.0
-11,2,ManeBall ⭐️⭐️⭐️Andy Uttley ,53,Tyrannoscorus BecksJohn Marsh ,52,Win,3.0,1.0
-12,2,Fish ⭐️⭐️⭐️Nicholas Warmoth ,29,In Dulcis Memoria LarkimusEd Dove ,39,Lose,0.0,10.0
-13,2,Settlers of ZlatanKarl Webster ,51,Howard Brown ⭐️Matt Warmoth ,42,Win,3.0,3.0
-14,2,Sancho RelaxoMike Fill ,39,Solano's immaculate bellendSam Watkinson ,43,Lose,0.0,6.5
-15,2,Cancelo CultureTim Boorman ,31,MikeyWade,35,Lose,0.0,9.0
-16,2,Tyrannoscorus BecksJohn Marsh ,52,ManeBall ⭐️⭐️⭐️Andy Uttley ,53,Lose,0.0,2.0
-17,2,In Dulcis Memoria LarkimusEd Dove ,39,Fish ⭐️⭐️⭐️Nicholas Warmoth ,29,Win,3.0,6.5
-18,2,Howard Brown ⭐️Matt Warmoth ,42,Settlers of ZlatanKarl Webster ,51,Lose,0.0,5.0
-19,2,Solano's immaculate bellendSam Watkinson ,43,Sancho RelaxoMike Fill ,39,Win,3.0,4.0
-20,3,MikeyWade,32,Tyrannoscorus BecksJohn Marsh ,32,Draw,1.0,9.5
-21,3,Cancelo CultureTim Boorman ,39,In Dulcis Memoria LarkimusEd Dove ,52,Lose,0.0,5.5
-22,3,ManeBall ⭐️⭐️⭐️Andy Uttley ,42,Howard Brown ⭐️Matt Warmoth ,38,Win,3.0,4.0
-23,3,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,Solano's immaculate bellendSam Watkinson ,51,Lose,0.0,3.0
-24,3,Settlers of ZlatanKarl Webster ,38,Sancho RelaxoMike Fill ,39,Lose,0.0,7.5
-25,3,Tyrannoscorus BecksJohn Marsh ,32,MikeyWade,32,Draw,1.0,9.5
-26,3,In Dulcis Memoria LarkimusEd Dove ,52,Cancelo CultureTim Boorman ,39,Win,3.0,1.0
-27,3,Howard Brown ⭐️Matt Warmoth ,38,ManeBall ⭐️⭐️⭐️Andy Uttley ,42,Lose,0.0,7.5
-28,3,Solano's immaculate bellendSam Watkinson ,51,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,Win,3.0,2.0
-29,3,Sancho RelaxoMike Fill ,39,Settlers of ZlatanKarl Webster ,38,Win,3.0,5.5
-30,4,MikeyWade,65,In Dulcis Memoria LarkimusEd Dove ,54,Win,3.0,2.0
-31,4,Tyrannoscorus BecksJohn Marsh ,36,Howard Brown ⭐️Matt Warmoth ,51,Lose,0.0,9.0
-32,4,Cancelo CultureTim Boorman ,44,Solano's immaculate bellendSam Watkinson ,50,Lose,0.0,7.0
-33,4,ManeBall ⭐️⭐️⭐️Andy Uttley ,58,Sancho RelaxoMike Fill ,31,Win,3.0,3.0
-34,4,Fish ⭐️⭐️⭐️Nicholas Warmoth ,70,Settlers of ZlatanKarl Webster ,41,Win,3.0,1.0
-35,4,In Dulcis Memoria LarkimusEd Dove ,54,MikeyWade,65,Lose,0.0,4.0
-36,4,Howard Brown ⭐️Matt Warmoth ,51,Tyrannoscorus BecksJohn Marsh ,36,Win,3.0,5.0
-37,4,Solano's immaculate bellendSam Watkinson ,50,Cancelo CultureTim Boorman ,44,Win,3.0,6.0
-38,4,Sancho RelaxoMike Fill ,31,ManeBall ⭐️⭐️⭐️Andy Uttley ,58,Lose,0.0,10.0
-39,4,Settlers of ZlatanKarl Webster ,41,Fish ⭐️⭐️⭐️Nicholas Warmoth ,70,Lose,0.0,8.0
-40,5,MikeyWade,41,Howard Brown ⭐️Matt Warmoth ,56,Lose,0.0,5.0
-41,5,In Dulcis Memoria LarkimusEd Dove ,43,Solano's immaculate bellendSam Watkinson ,26,Win,3.0,4.0
-42,5,Tyrannoscorus BecksJohn Marsh ,39,Sancho RelaxoMike Fill ,25,Win,3.0,6.5
-43,5,Cancelo CultureTim Boorman ,39,Settlers of ZlatanKarl Webster ,48,Lose,0.0,6.5
-44,5,ManeBall ⭐️⭐️⭐️Andy Uttley ,50,Fish ⭐️⭐️⭐️Nicholas Warmoth ,32,Win,3.0,2.0
-45,5,Howard Brown ⭐️Matt Warmoth ,56,MikeyWade,41,Win,3.0,1.0
-46,5,Solano's immaculate bellendSam Watkinson ,26,In Dulcis Memoria LarkimusEd Dove ,43,Lose,0.0,9.0
-47,5,Sancho RelaxoMike Fill ,25,Tyrannoscorus BecksJohn Marsh ,39,Lose,0.0,10.0
-48,5,Settlers of ZlatanKarl Webster ,48,Cancelo CultureTim Boorman ,39,Win,3.0,3.0
-49,5,Fish ⭐️⭐️⭐️Nicholas Warmoth ,32,ManeBall ⭐️⭐️⭐️Andy Uttley ,50,Lose,0.0,8.0
-50,6,MikeyWade,61,Solano's immaculate bellendSam Watkinson ,35,Win,3.0,1.0
-51,6,Howard Brown ⭐️Matt Warmoth ,44,Sancho RelaxoMike Fill ,28,Win,3.0,4.0
-52,6,In Dulcis Memoria LarkimusEd Dove ,29,Settlers of ZlatanKarl Webster ,40,Lose,0.0,8.0
-53,6,Tyrannoscorus BecksJohn Marsh ,54,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,Win,3.0,2.0
-54,6,Cancelo CultureTim Boorman ,31,ManeBall ⭐️⭐️⭐️Andy Uttley ,28,Win,3.0,7.0
-55,6,Solano's immaculate bellendSam Watkinson ,35,MikeyWade,61,Lose,0.0,6.0
-56,6,Sancho RelaxoMike Fill ,28,Howard Brown ⭐️Matt Warmoth ,44,Lose,0.0,9.5
-57,6,Settlers of ZlatanKarl Webster ,40,In Dulcis Memoria LarkimusEd Dove ,29,Win,3.0,5.0
-58,6,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,Tyrannoscorus BecksJohn Marsh ,54,Lose,0.0,3.0
-59,6,ManeBall ⭐️⭐️⭐️Andy Uttley ,28,Cancelo CultureTim Boorman ,31,Lose,0.0,9.5
-60,7,MikeyWade,0,Sancho RelaxoMike Fill ,0,Draw,1.0,5.5
-61,7,Solano's immaculate bellendSam Watkinson ,0,Settlers of ZlatanKarl Webster ,0,Draw,1.0,5.5
-62,7,Howard Brown ⭐️Matt Warmoth ,0,Fish ⭐️⭐️⭐️Nicholas Warmoth ,0,Draw,1.0,5.5
-63,7,In Dulcis Memoria LarkimusEd Dove ,0,ManeBall ⭐️⭐️⭐️Andy Uttley ,0,Draw,1.0,5.5
-64,7,Tyrannoscorus BecksJohn Marsh ,0,Cancelo CultureTim Boorman ,0,Draw,1.0,5.5
-65,7,Sancho RelaxoMike Fill ,0,MikeyWade,0,Draw,1.0,5.5
-66,7,Settlers of ZlatanKarl Webster ,0,Solano's immaculate bellendSam Watkinson ,0,Draw,1.0,5.5
-67,7,Fish ⭐️⭐️⭐️Nicholas Warmoth ,0,Howard Brown ⭐️Matt Warmoth ,0,Draw,1.0,5.5
-68,7,ManeBall ⭐️⭐️⭐️Andy Uttley ,0,In Dulcis Memoria LarkimusEd Dove ,0,Draw,1.0,5.5
-69,7,Cancelo CultureTim Boorman ,0,Tyrannoscorus BecksJohn Marsh ,0,Draw,1.0,5.5
-70,8,MikeyWade,35,Settlers of ZlatanKarl Webster ,39,Lose,0.0,5.5
-71,8,Sancho RelaxoMike Fill ,31,Fish ⭐️⭐️⭐️Nicholas Warmoth ,27,Win,3.0,8.0
-72,8,Solano's immaculate bellendSam Watkinson ,35,ManeBall ⭐️⭐️⭐️Andy Uttley ,37,Lose,0.0,5.5
-73,8,Howard Brown ⭐️Matt Warmoth ,43,Cancelo CultureTim Boorman ,14,Win,3.0,1.5
-74,8,In Dulcis Memoria LarkimusEd Dove ,43,Tyrannoscorus BecksJohn Marsh ,32,Win,3.0,1.5
-75,8,Settlers of ZlatanKarl Webster ,39,MikeyWade,35,Win,3.0,3.0
-76,8,Fish ⭐️⭐️⭐️Nicholas Warmoth ,27,Sancho RelaxoMike Fill ,31,Lose,0.0,9.0
-77,8,ManeBall ⭐️⭐️⭐️Andy Uttley ,37,Solano's immaculate bellendSam Watkinson ,35,Win,3.0,4.0
-78,8,Cancelo CultureTim Boorman ,14,Howard Brown ⭐️Matt Warmoth ,43,Lose,0.0,10.0
-79,8,Tyrannoscorus BecksJohn Marsh ,32,In Dulcis Memoria LarkimusEd Dove ,43,Lose,0.0,7.0
-80,9,MikeyWade,54,Fish ⭐️⭐️⭐️Nicholas Warmoth ,43,Win,3.0,3.0
-81,9,Settlers of ZlatanKarl Webster ,57,ManeBall ⭐️⭐️⭐️Andy Uttley ,40,Win,3.0,2.0
-82,9,Sancho RelaxoMike Fill ,32,Cancelo CultureTim Boorman ,81,Lose,0.0,9.0
-83,9,Solano's immaculate bellendSam Watkinson ,37,Tyrannoscorus BecksJohn Marsh ,37,Draw,1.0,7.5
-84,9,Howard Brown ⭐️Matt Warmoth ,48,In Dulcis Memoria LarkimusEd Dove ,21,Win,3.0,4.0
-85,9,Fish ⭐️⭐️⭐️Nicholas Warmoth ,43,MikeyWade,54,Lose,0.0,5.0
-86,9,ManeBall ⭐️⭐️⭐️Andy Uttley ,40,Settlers of ZlatanKarl Webster ,57,Lose,0.0,6.0
-87,9,Cancelo CultureTim Boorman ,81,Sancho RelaxoMike Fill ,32,Win,3.0,1.0
-88,9,Tyrannoscorus BecksJohn Marsh ,37,Solano's immaculate bellendSam Watkinson ,37,Draw,1.0,7.5
-89,9,In Dulcis Memoria LarkimusEd Dove ,21,Howard Brown ⭐️Matt Warmoth ,48,Lose,0.0,10.0
-90,10,Fish ⭐️⭐️⭐️Nicholas Warmoth ,29,Solano's immaculate bellendSam Watkinson ,54,Lose,0.0,9.0
-91,10,MikeyWade,40,Settlers of ZlatanKarl Webster ,48,Lose,0.0,8.0
-92,10,In Dulcis Memoria LarkimusEd Dove ,46,Sancho RelaxoMike Fill ,48,Lose,0.0,7.0
-93,10,Howard Brown ⭐️Matt Warmoth ,26,ManeBall ⭐️⭐️⭐️Andy Uttley ,49,Lose,0.0,10.0
-94,10,Tyrannoscorus BecksJohn Marsh ,66,Cancelo CultureTim Boorman ,49,Win,3.0,1.0
-95,10,Solano's immaculate bellendSam Watkinson ,54,Fish ⭐️⭐️⭐️Nicholas Warmoth ,29,Win,3.0,2.0
-96,10,Settlers of ZlatanKarl Webster ,48,MikeyWade,40,Win,3.0,5.5
-97,10,Sancho RelaxoMike Fill ,48,In Dulcis Memoria LarkimusEd Dove ,46,Win,3.0,5.5
-98,10,ManeBall ⭐️⭐️⭐️Andy Uttley ,49,Howard Brown ⭐️Matt Warmoth ,26,Win,3.0,3.5
-99,10,Cancelo CultureTim Boorman ,49,Tyrannoscorus BecksJohn Marsh ,66,Lose,0.0,3.5
-100,11,Fish ⭐️⭐️⭐️Nicholas Warmoth ,51,Settlers of ZlatanKarl Webster ,47,Win,3.0,2.0
-101,11,Solano's immaculate bellendSam Watkinson ,36,Sancho RelaxoMike Fill ,40,Lose,0.0,9.0
-102,11,MikeyWade,54,ManeBall ⭐️⭐️⭐️Andy Uttley ,48,Win,3.0,1.0
-103,11,In Dulcis Memoria LarkimusEd Dove ,44,Cancelo CultureTim Boorman ,50,Lose,0.0,7.0
-104,11,Howard Brown ⭐️Matt Warmoth ,45,Tyrannoscorus BecksJohn Marsh ,33,Win,3.0,6.0
-105,11,Settlers of ZlatanKarl Webster ,47,Fish ⭐️⭐️⭐️Nicholas Warmoth ,51,Lose,0.0,5.0
-106,11,Sancho RelaxoMike Fill ,40,Solano's immaculate bellendSam Watkinson ,36,Win,3.0,8.0
-107,11,ManeBall ⭐️⭐️⭐️Andy Uttley ,48,MikeyWade,54,Lose,0.0,4.0
-108,11,Cancelo CultureTim Boorman ,50,In Dulcis Memoria LarkimusEd Dove ,44,Win,3.0,3.0
-109,11,Tyrannoscorus BecksJohn Marsh ,33,Howard Brown ⭐️Matt Warmoth ,45,Lose,0.0,10.0
-110,12,Fish ⭐️⭐️⭐️Nicholas Warmoth ,61,Sancho RelaxoMike Fill ,24,Win,3.0,1.0
-111,12,Settlers of ZlatanKarl Webster ,40,ManeBall ⭐️⭐️⭐️Andy Uttley ,36,Win,3.0,5.0
-112,12,Solano's immaculate bellendSam Watkinson ,57,Cancelo CultureTim Boorman ,37,Win,3.0,2.0
-113,12,MikeyWade,48,Tyrannoscorus BecksJohn Marsh ,39,Win,3.0,3.0
-114,12,In Dulcis Memoria LarkimusEd Dove ,3,Howard Brown ⭐️Matt Warmoth ,44,Lose,0.0,9.0
-115,12,Sancho RelaxoMike Fill ,24,Fish ⭐️⭐️⭐️Nicholas Warmoth ,61,Lose,0.0,10.0
-116,12,ManeBall ⭐️⭐️⭐️Andy Uttley ,36,Settlers of ZlatanKarl Webster ,40,Lose,0.0,8.0
-117,12,Cancelo CultureTim Boorman ,37,Solano's immaculate bellendSam Watkinson ,57,Lose,0.0,7.0
-118,12,Tyrannoscorus BecksJohn Marsh ,39,MikeyWade,48,Lose,0.0,6.0
-119,12,Howard Brown ⭐️Matt Warmoth ,44,In Dulcis Memoria LarkimusEd Dove ,3,Win,3.0,4.0
-120,13,Fish ⭐️⭐️⭐️Nicholas Warmoth ,45,ManeBall ⭐️⭐️⭐️Andy Uttley ,39,Win,3.0,3.0
-121,13,Sancho RelaxoMike Fill ,37,Cancelo CultureTim Boorman ,57,Lose,0.0,6.5
-122,13,Settlers of ZlatanKarl Webster ,37,Tyrannoscorus BecksJohn Marsh ,35,Win,3.0,6.5
-123,13,Solano's immaculate bellendSam Watkinson ,34,Howard Brown ⭐️Matt Warmoth ,55,Lose,0.0,9.0
-124,13,MikeyWade,43,In Dulcis Memoria LarkimusEd Dove ,20,Win,3.0,4.0
-125,13,ManeBall ⭐️⭐️⭐️Andy Uttley ,39,Fish ⭐️⭐️⭐️Nicholas Warmoth ,45,Lose,0.0,5.0
-126,13,Cancelo CultureTim Boorman ,57,Sancho RelaxoMike Fill ,37,Win,3.0,1.0
-127,13,Tyrannoscorus BecksJohn Marsh ,35,Settlers of ZlatanKarl Webster ,37,Lose,0.0,8.0
-128,13,Howard Brown ⭐️Matt Warmoth ,55,Solano's immaculate bellendSam Watkinson ,34,Win,3.0,2.0
-129,13,In Dulcis Memoria LarkimusEd Dove ,20,MikeyWade,43,Lose,0.0,10.0
-130,14,Fish ⭐️⭐️⭐️Nicholas Warmoth ,35,Cancelo CultureTim Boorman ,87,Lose,0.0,8.0
-131,14,ManeBall ⭐️⭐️⭐️Andy Uttley ,43,Tyrannoscorus BecksJohn Marsh ,56,Lose,0.0,7.0
-132,14,Sancho RelaxoMike Fill ,24,Howard Brown ⭐️Matt Warmoth ,51,Lose,0.0,10.0
-133,14,Settlers of ZlatanKarl Webster ,50,In Dulcis Memoria LarkimusEd Dove ,52,Lose,0.0,6.0
-134,14,Solano's immaculate bellendSam Watkinson ,68,MikeyWade,25,Win,3.0,2.0
-135,14,Cancelo CultureTim Boorman ,87,Fish ⭐️⭐️⭐️Nicholas Warmoth ,35,Win,3.0,1.0
-136,14,Tyrannoscorus BecksJohn Marsh ,56,ManeBall ⭐️⭐️⭐️Andy Uttley ,43,Win,3.0,3.0
-137,14,Howard Brown ⭐️Matt Warmoth ,51,Sancho RelaxoMike Fill ,24,Win,3.0,5.0
-138,14,In Dulcis Memoria LarkimusEd Dove ,52,Settlers of ZlatanKarl Webster ,50,Win,3.0,4.0
-139,14,MikeyWade,25,Solano's immaculate bellendSam Watkinson ,68,Lose,0.0,9.0
-140,15,Fish ⭐️⭐️⭐️Nicholas Warmoth ,35,Tyrannoscorus BecksJohn Marsh ,28,Win,3.0,7.0
-141,15,Cancelo CultureTim Boorman ,32,Howard Brown ⭐️Matt Warmoth ,56,Lose,0.0,8.0
-142,15,ManeBall ⭐️⭐️⭐️Andy Uttley ,40,In Dulcis Memoria LarkimusEd Dove ,43,Lose,0.0,6.0
-143,15,Sancho RelaxoMike Fill ,20,MikeyWade,45,Lose,0.0,10.0
-144,15,Settlers of ZlatanKarl Webster ,49,Solano's immaculate bellendSam Watkinson ,44,Win,3.0,2.0
-145,15,Tyrannoscorus BecksJohn Marsh ,28,Fish ⭐️⭐️⭐️Nicholas Warmoth ,35,Lose,0.0,9.0
-146,15,Howard Brown ⭐️Matt Warmoth ,56,Cancelo CultureTim Boorman ,32,Win,3.0,1.0
-147,15,In Dulcis Memoria LarkimusEd Dove ,43,ManeBall ⭐️⭐️⭐️Andy Uttley ,40,Win,3.0,5.0
-148,15,MikeyWade,45,Sancho RelaxoMike Fill ,20,Win,3.0,3.0
-149,15,Solano's immaculate bellendSam Watkinson ,44,Settlers of ZlatanKarl Webster ,49,Lose,0.0,4.0
-150,16,Fish ⭐️⭐️⭐️Nicholas Warmoth ,39,Howard Brown ⭐️Matt Warmoth ,37,Win,3.0,6.0
-151,16,Tyrannoscorus BecksJohn Marsh ,40,In Dulcis Memoria LarkimusEd Dove ,35,Win,3.0,5.0
-152,16,Cancelo CultureTim Boorman ,51,MikeyWade,36,Win,3.0,3.0
-153,16,ManeBall ⭐️⭐️⭐️Andy Uttley ,42,Solano's immaculate bellendSam Watkinson ,59,Lose,0.0,4.0
-154,16,Sancho RelaxoMike Fill ,28,Settlers of ZlatanKarl Webster ,58,Lose,0.0,10.0
-155,16,Howard Brown ⭐️Matt Warmoth ,37,Fish ⭐️⭐️⭐️Nicholas Warmoth ,39,Lose,0.0,7.0
-156,16,In Dulcis Memoria LarkimusEd Dove ,35,Tyrannoscorus BecksJohn Marsh ,40,Lose,0.0,9.0
-157,16,MikeyWade,36,Cancelo CultureTim Boorman ,51,Lose,0.0,8.0
-158,16,Solano's immaculate bellendSam Watkinson ,59,ManeBall ⭐️⭐️⭐️Andy Uttley ,42,Win,3.0,1.0
-159,16,Settlers of ZlatanKarl Webster ,58,Sancho RelaxoMike Fill ,28,Win,3.0,2.0
-160,17,Fish ⭐️⭐️⭐️Nicholas Warmoth ,58,In Dulcis Memoria LarkimusEd Dove ,40,Win,3.0,1.0
-161,17,Howard Brown ⭐️Matt Warmoth ,44,MikeyWade,43,Win,3.0,6.0
-162,17,Tyrannoscorus BecksJohn Marsh ,34,Solano's immaculate bellendSam Watkinson ,49,Lose,0.0,10.0
-163,17,Cancelo CultureTim Boorman ,49,Settlers of ZlatanKarl Webster ,57,Lose,0.0,3.5
-164,17,ManeBall ⭐️⭐️⭐️Andy Uttley ,47,Sancho RelaxoMike Fill ,39,Win,3.0,5.0
-165,17,In Dulcis Memoria LarkimusEd Dove ,40,Fish ⭐️⭐️⭐️Nicholas Warmoth ,58,Lose,0.0,8.0
-166,17,MikeyWade,43,Howard Brown ⭐️Matt Warmoth ,44,Lose,0.0,7.0
-167,17,Solano's immaculate bellendSam Watkinson ,49,Tyrannoscorus BecksJohn Marsh ,34,Win,3.0,3.5
-168,17,Settlers of ZlatanKarl Webster ,57,Cancelo CultureTim Boorman ,49,Win,3.0,2.0
-169,17,Sancho RelaxoMike Fill ,39,ManeBall ⭐️⭐️⭐️Andy Uttley ,47,Lose,0.0,9.0
-170,18,Fish ⭐️⭐️⭐️Nicholas Warmoth ,44,MikeyWade,39,Win,3.0,4.0
-171,18,In Dulcis Memoria LarkimusEd Dove ,23,Solano's immaculate bellendSam Watkinson ,50,Lose,0.0,9.0
-172,18,Howard Brown ⭐️Matt Warmoth ,28,Settlers of ZlatanKarl Webster ,31,Lose,0.0,8.0
-173,18,Tyrannoscorus BecksJohn Marsh ,50,Sancho RelaxoMike Fill ,18,Win,3.0,1.5
-174,18,Cancelo CultureTim Boorman ,42,ManeBall ⭐️⭐️⭐️Andy Uttley ,47,Lose,0.0,5.0
-175,18,MikeyWade,39,Fish ⭐️⭐️⭐️Nicholas Warmoth ,44,Lose,0.0,6.0
-176,18,Solano's immaculate bellendSam Watkinson ,50,In Dulcis Memoria LarkimusEd Dove ,23,Win,3.0,1.5
-177,18,Settlers of ZlatanKarl Webster ,31,Howard Brown ⭐️Matt Warmoth ,28,Win,3.0,7.0
-178,18,Sancho RelaxoMike Fill ,18,Tyrannoscorus BecksJohn Marsh ,50,Lose,0.0,10.0
-179,18,ManeBall ⭐️⭐️⭐️Andy Uttley ,47,Cancelo CultureTim Boorman ,42,Win,3.0,3.0
-180,19,Settlers of ZlatanKarl Webster ,53,Tyrannoscorus BecksJohn Marsh ,39,Win,3.0,4.0
-181,19,Cancelo CultureTim Boorman ,38,Sancho RelaxoMike Fill ,36,Win,3.0,9.0
-182,19,Fish ⭐️⭐️⭐️Nicholas Warmoth ,55,Solano's immaculate bellendSam Watkinson ,46,Win,3.0,3.0
-183,19,ManeBall ⭐️⭐️⭐️Andy Uttley ,51,MikeyWade,56,Lose,0.0,5.0
-184,19,Howard Brown ⭐️Matt Warmoth ,58,In Dulcis Memoria LarkimusEd Dove ,40,Win,3.0,1.0
-185,19,Tyrannoscorus BecksJohn Marsh ,39,Settlers of ZlatanKarl Webster ,53,Lose,0.0,8.0
-186,19,Sancho RelaxoMike Fill ,36,Cancelo CultureTim Boorman ,38,Lose,0.0,10.0
-187,19,Solano's immaculate bellendSam Watkinson ,46,Fish ⭐️⭐️⭐️Nicholas Warmoth ,55,Lose,0.0,6.0
-188,19,MikeyWade,56,ManeBall ⭐️⭐️⭐️Andy Uttley ,51,Win,3.0,2.0
-189,19,In Dulcis Memoria LarkimusEd Dove ,40,Howard Brown ⭐️Matt Warmoth ,58,Lose,0.0,7.0
-190,20,Settlers of ZlatanKarl Webster ,49,Sancho RelaxoMike Fill ,49,Draw,1.0,5.5
-191,20,Tyrannoscorus BecksJohn Marsh ,39,Solano's immaculate bellendSam Watkinson ,53,Lose,0.0,9.0
-192,20,Cancelo CultureTim Boorman ,38,MikeyWade,41,Lose,0.0,10.0
-193,20,Fish ⭐️⭐️⭐️Nicholas Warmoth ,70,In Dulcis Memoria LarkimusEd Dove ,69,Win,3.0,1.0
-194,20,ManeBall ⭐️⭐️⭐️Andy Uttley ,53,Howard Brown ⭐️Matt Warmoth ,43,Win,3.0,3.5
-195,20,Sancho RelaxoMike Fill ,49,Settlers of ZlatanKarl Webster ,49,Draw,1.0,5.5
-196,20,Solano's immaculate bellendSam Watkinson ,53,Tyrannoscorus BecksJohn Marsh ,39,Win,3.0,3.5
-197,20,MikeyWade,41,Cancelo CultureTim Boorman ,38,Win,3.0,8.0
-198,20,In Dulcis Memoria LarkimusEd Dove ,69,Fish ⭐️⭐️⭐️Nicholas Warmoth ,70,Lose,0.0,2.0
-199,20,Howard Brown ⭐️Matt Warmoth ,43,ManeBall ⭐️⭐️⭐️Andy Uttley ,53,Lose,0.0,7.0
-200,21,Settlers of ZlatanKarl Webster ,36,Solano's immaculate bellendSam Watkinson ,44,Lose,0.0,9.0
-201,21,Sancho RelaxoMike Fill ,55,MikeyWade,54,Win,3.0,2.0
-202,21,Tyrannoscorus BecksJohn Marsh ,34,In Dulcis Memoria LarkimusEd Dove ,43,Lose,0.0,10.0
-203,21,Cancelo CultureTim Boorman ,37,Howard Brown ⭐️Matt Warmoth ,60,Lose,0.0,8.0
-204,21,Fish ⭐️⭐️⭐️Nicholas Warmoth ,53,ManeBall ⭐️⭐️⭐️Andy Uttley ,44,Win,3.0,4.0
-205,21,Solano's immaculate bellendSam Watkinson ,44,Settlers of ZlatanKarl Webster ,36,Win,3.0,5.5
-206,21,MikeyWade,54,Sancho RelaxoMike Fill ,55,Lose,0.0,3.0
-207,21,In Dulcis Memoria LarkimusEd Dove ,43,Tyrannoscorus BecksJohn Marsh ,34,Win,3.0,7.0
-208,21,Howard Brown ⭐️Matt Warmoth ,60,Cancelo CultureTim Boorman ,37,Win,3.0,1.0
-209,21,ManeBall ⭐️⭐️⭐️Andy Uttley ,44,Fish ⭐️⭐️⭐️Nicholas Warmoth ,53,Lose,0.0,5.5
-210,22,Settlers of ZlatanKarl Webster ,22,MikeyWade,59,Lose,0.0,9.5
-211,22,Solano's immaculate bellendSam Watkinson ,24,In Dulcis Memoria LarkimusEd Dove ,23,Win,3.0,7.0
-212,22,Sancho RelaxoMike Fill ,67,Howard Brown ⭐️Matt Warmoth ,32,Win,3.0,2.0
-213,22,Tyrannoscorus BecksJohn Marsh ,61,ManeBall ⭐️⭐️⭐️Andy Uttley ,22,Win,3.0,3.0
-214,22,Cancelo CultureTim Boorman ,39,Fish ⭐️⭐️⭐️Nicholas Warmoth ,75,Lose,0.0,5.0
-215,22,MikeyWade,59,Settlers of ZlatanKarl Webster ,22,Win,3.0,4.0
-216,22,In Dulcis Memoria LarkimusEd Dove ,23,Solano's immaculate bellendSam Watkinson ,24,Lose,0.0,8.0
-217,22,Howard Brown ⭐️Matt Warmoth ,32,Sancho RelaxoMike Fill ,67,Lose,0.0,6.0
-218,22,ManeBall ⭐️⭐️⭐️Andy Uttley ,22,Tyrannoscorus BecksJohn Marsh ,61,Lose,0.0,9.5
-219,22,Fish ⭐️⭐️⭐️Nicholas Warmoth ,75,Cancelo CultureTim Boorman ,39,Win,3.0,1.0
-220,23,Settlers of ZlatanKarl Webster ,50,In Dulcis Memoria LarkimusEd Dove ,69,Lose,0.0,5.0
-221,23,MikeyWade,35,Howard Brown ⭐️Matt Warmoth ,53,Lose,0.0,9.0
-222,23,Solano's immaculate bellendSam Watkinson ,31,ManeBall ⭐️⭐️⭐️Andy Uttley ,65,Lose,0.0,10.0
-223,23,Sancho RelaxoMike Fill ,46,Fish ⭐️⭐️⭐️Nicholas Warmoth ,41,Win,3.0,6.0
-224,23,Tyrannoscorus BecksJohn Marsh ,51,Cancelo CultureTim Boorman ,39,Win,3.0,4.0
-225,23,In Dulcis Memoria LarkimusEd Dove ,69,Settlers of ZlatanKarl Webster ,50,Win,3.0,1.0
-226,23,Howard Brown ⭐️Matt Warmoth ,53,MikeyWade,35,Win,3.0,3.0
-227,23,ManeBall ⭐️⭐️⭐️Andy Uttley ,65,Solano's immaculate bellendSam Watkinson ,31,Win,3.0,2.0
-228,23,Fish ⭐️⭐️⭐️Nicholas Warmoth ,41,Sancho RelaxoMike Fill ,46,Lose,0.0,7.0
-229,23,Cancelo CultureTim Boorman ,39,Tyrannoscorus BecksJohn Marsh ,51,Lose,0.0,8.0
-230,24,Settlers of ZlatanKarl Webster ,25,Howard Brown ⭐️Matt Warmoth ,39,Lose,0.0,10.0
-231,24,In Dulcis Memoria LarkimusEd Dove ,37,ManeBall ⭐️⭐️⭐️Andy Uttley ,29,Win,3.0,4.0
-232,24,MikeyWade,33,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,Lose,0.0,6.5
-233,24,Solano's immaculate bellendSam Watkinson ,29,Cancelo CultureTim Boorman ,33,Lose,0.0,8.5
-234,24,Sancho RelaxoMike Fill ,36,Tyrannoscorus BecksJohn Marsh ,52,Lose,0.0,5.0
-235,24,Howard Brown ⭐️Matt Warmoth ,39,Settlers of ZlatanKarl Webster ,25,Win,3.0,3.0
-236,24,ManeBall ⭐️⭐️⭐️Andy Uttley ,29,In Dulcis Memoria LarkimusEd Dove ,37,Lose,0.0,8.5
-237,24,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,MikeyWade,33,Win,3.0,2.0
-238,24,Cancelo CultureTim Boorman ,33,Solano's immaculate bellendSam Watkinson ,29,Win,3.0,6.5
-239,24,Tyrannoscorus BecksJohn Marsh ,52,Sancho RelaxoMike Fill ,36,Win,3.0,1.0
-240,25,Settlers of ZlatanKarl Webster ,66,ManeBall ⭐️⭐️⭐️Andy Uttley ,64,Win,3.0,3.0
-241,25,Howard Brown ⭐️Matt Warmoth ,78,Fish ⭐️⭐️⭐️Nicholas Warmoth ,91,Lose,0.0,2.0
-242,25,In Dulcis Memoria LarkimusEd Dove ,57,Cancelo CultureTim Boorman ,27,Win,3.0,5.0
-243,25,MikeyWade,44,Tyrannoscorus BecksJohn Marsh ,25,Win,3.0,6.0
-244,25,Solano's immaculate bellendSam Watkinson ,35,Sancho RelaxoMike Fill ,23,Win,3.0,7.0
-245,25,ManeBall ⭐️⭐️⭐️Andy Uttley ,64,Settlers of ZlatanKarl Webster ,66,Lose,0.0,4.0
-246,25,Fish ⭐️⭐️⭐️Nicholas Warmoth ,91,Howard Brown ⭐️Matt Warmoth ,78,Win,3.0,1.0
-247,25,Cancelo CultureTim Boorman ,27,In Dulcis Memoria LarkimusEd Dove ,57,Lose,0.0,8.0
-248,25,Tyrannoscorus BecksJohn Marsh ,25,MikeyWade,44,Lose,0.0,9.0
-249,25,Sancho RelaxoMike Fill ,23,Solano's immaculate bellendSam Watkinson ,35,Lose,0.0,10.0
-0,26,Settlers of ZlatanKarl Webster ,94,Fish ⭐️⭐️⭐️Nicholas Warmoth ,49,Win,3.0,1.0
-1,26,ManeBall ⭐️⭐️⭐️Andy Uttley ,31,Cancelo CultureTim Boorman ,35,Lose,0.0,9.5
-2,26,Howard Brown ⭐️Matt Warmoth ,31,Tyrannoscorus BecksJohn Marsh ,71,Lose,0.0,9.5
-3,26,In Dulcis Memoria LarkimusEd Dove ,37,Sancho RelaxoMike Fill ,38,Lose,0.0,7.0
-4,26,Kochs & WöbersMichael Wade ,42,Solano's immaculate bellendSam Watkinson ,50,Lose,0.0,5.0
-5,26,Fish ⭐️⭐️⭐️Nicholas Warmoth ,49,Settlers of ZlatanKarl Webster ,94,Lose,0.0,4.0
-6,26,Cancelo CultureTim Boorman ,35,ManeBall ⭐️⭐️⭐️Andy Uttley ,31,Win,3.0,8.0
-7,26,Tyrannoscorus BecksJohn Marsh ,71,Howard Brown ⭐️Matt Warmoth ,31,Win,3.0,2.0
-8,26,Sancho RelaxoMike Fill ,38,In Dulcis Memoria LarkimusEd Dove ,37,Win,3.0,6.0
-9,26,Solano's immaculate bellendSam Watkinson ,50,Kochs & WöbersMichael Wade ,42,Win,3.0,3.0
-10,27,Settlers of ZlatanKarl Webster ,59,Cancelo CultureTim Boorman ,45,Win,3.0,4.0
-11,27,Fish ⭐️⭐️⭐️Nicholas Warmoth ,54,Tyrannoscorus BecksJohn Marsh ,49,Win,3.0,5.5
-12,27,ManeBall ⭐️⭐️⭐️Andy Uttley ,69,Sancho RelaxoMike Fill ,46,Win,3.0,1.0
-13,27,Howard Brown ⭐️Matt Warmoth ,64,Solano's immaculate bellendSam Watkinson ,53,Win,3.0,3.0
-14,27,In Dulcis Memoria LarkimusEd Dove ,54,Kochs & WöbersMichael Wade ,65,Lose,0.0,5.5
-15,27,Cancelo CultureTim Boorman ,45,Settlers of ZlatanKarl Webster ,59,Lose,0.0,10.0
-16,27,Tyrannoscorus BecksJohn Marsh ,49,Fish ⭐️⭐️⭐️Nicholas Warmoth ,54,Lose,0.0,8.0
-17,27,Sancho RelaxoMike Fill ,46,ManeBall ⭐️⭐️⭐️Andy Uttley ,69,Lose,0.0,9.0
-18,27,Solano's immaculate bellendSam Watkinson ,53,Howard Brown ⭐️Matt Warmoth ,64,Lose,0.0,7.0
-19,27,Kochs & WöbersMichael Wade ,65,In Dulcis Memoria LarkimusEd Dove ,54,Win,3.0,2.0
-20,28,Howard Brown ⭐️Matt Warmoth ,42,ManeBall ⭐️⭐️⭐️Andy Uttley ,50,Lose,0.0,3.0
-21,28,Tyrannoscorus BecksJohn Marsh ,13,Sancho RelaxoMike Fill ,43,Lose,0.0,10.0
-22,28,Solano's immaculate bellendSam Watkinson ,35,Kochs & WöbersMichael Wade ,39,Lose,0.0,6.0
-23,28,Cancelo CultureTim Boorman ,28,Settlers of ZlatanKarl Webster ,20,Win,3.0,8.0
-24,28,In Dulcis Memoria LarkimusEd Dove ,41,Fish ⭐️⭐️⭐️Nicholas Warmoth ,30,Win,3.0,4.0
-25,28,ManeBall ⭐️⭐️⭐️Andy Uttley ,50,Howard Brown ⭐️Matt Warmoth ,42,Win,3.0,1.0
-26,28,Sancho RelaxoMike Fill ,43,Tyrannoscorus BecksJohn Marsh ,13,Win,3.0,2.0
-27,28,Kochs & WöbersMichael Wade ,39,Solano's immaculate bellendSam Watkinson ,35,Win,3.0,5.0
-28,28,Settlers of ZlatanKarl Webster ,20,Cancelo CultureTim Boorman ,28,Lose,0.0,9.0
-29,28,Fish ⭐️⭐️⭐️Nicholas Warmoth ,30,In Dulcis Memoria LarkimusEd Dove ,41,Lose,0.0,7.0
-30,29,Howard Brown ⭐️Matt Warmoth ,73,Sancho RelaxoMike Fill ,64,Win,3.0,4.5
-31,29,ManeBall ⭐️⭐️⭐️Andy Uttley ,79,Kochs & WöbersMichael Wade ,71,Win,3.0,3.0
-32,29,Tyrannoscorus BecksJohn Marsh ,58,Settlers of ZlatanKarl Webster ,73,Lose,0.0,9.0
-33,29,Solano's immaculate bellendSam Watkinson ,65,Fish ⭐️⭐️⭐️Nicholas Warmoth ,93,Lose,0.0,7.0
-34,29,Cancelo CultureTim Boorman ,83,In Dulcis Memoria LarkimusEd Dove ,41,Win,3.0,2.0
-35,29,Sancho RelaxoMike Fill ,64,Howard Brown ⭐️Matt Warmoth ,73,Lose,0.0,8.0
-36,29,Kochs & WöbersMichael Wade ,71,ManeBall ⭐️⭐️⭐️Andy Uttley ,79,Lose,0.0,6.0
-37,29,Settlers of ZlatanKarl Webster ,73,Tyrannoscorus BecksJohn Marsh ,58,Win,3.0,4.5
-38,29,Fish ⭐️⭐️⭐️Nicholas Warmoth ,93,Solano's immaculate bellendSam Watkinson ,65,Win,3.0,1.0
-39,29,In Dulcis Memoria LarkimusEd Dove ,41,Cancelo CultureTim Boorman ,83,Lose,0.0,10.0
+GW,player1name,player1score,player2name,player2score,result,tablepoints,GW_rank
+1,MikeyWade,22,ManeBall ⭐️⭐️⭐️Andy Uttley ,52,Lose,0.0,10.0
+1,Fish ⭐️⭐️⭐️Nicholas Warmoth ,51,Cancelo CultureTim Boorman ,36,Win,3.0,3.5
+1,Settlers of ZlatanKarl Webster ,51,Tyrannoscorus BecksJohn Marsh ,25,Win,3.0,3.5
+1,Sancho RelaxoMike Fill ,32,In Dulcis Memoria LarkimusEd Dove ,39,Lose,0.0,8.0
+1,Solano's immaculate bellendSam Watkinson ,46,Howard Brown ⭐️Matt Warmoth ,61,Lose,0.0,5.0
+1,ManeBall ⭐️⭐️⭐️Andy Uttley ,52,MikeyWade,22,Win,3.0,2.0
+1,Cancelo CultureTim Boorman ,36,Fish ⭐️⭐️⭐️Nicholas Warmoth ,51,Lose,0.0,7.0
+1,Tyrannoscorus BecksJohn Marsh ,25,Settlers of ZlatanKarl Webster ,51,Lose,0.0,9.0
+1,In Dulcis Memoria LarkimusEd Dove ,39,Sancho RelaxoMike Fill ,32,Win,3.0,6.0
+1,Howard Brown ⭐️Matt Warmoth ,61,Solano's immaculate bellendSam Watkinson ,46,Win,3.0,1.0
+2,MikeyWade,35,Cancelo CultureTim Boorman ,31,Win,3.0,8.0
+2,ManeBall ⭐️⭐️⭐️Andy Uttley ,53,Tyrannoscorus BecksJohn Marsh ,52,Win,3.0,1.0
+2,Fish ⭐️⭐️⭐️Nicholas Warmoth ,29,In Dulcis Memoria LarkimusEd Dove ,39,Lose,0.0,10.0
+2,Settlers of ZlatanKarl Webster ,51,Howard Brown ⭐️Matt Warmoth ,42,Win,3.0,3.0
+2,Sancho RelaxoMike Fill ,39,Solano's immaculate bellendSam Watkinson ,43,Lose,0.0,6.5
+2,Cancelo CultureTim Boorman ,31,MikeyWade,35,Lose,0.0,9.0
+2,Tyrannoscorus BecksJohn Marsh ,52,ManeBall ⭐️⭐️⭐️Andy Uttley ,53,Lose,0.0,2.0
+2,In Dulcis Memoria LarkimusEd Dove ,39,Fish ⭐️⭐️⭐️Nicholas Warmoth ,29,Win,3.0,6.5
+2,Howard Brown ⭐️Matt Warmoth ,42,Settlers of ZlatanKarl Webster ,51,Lose,0.0,5.0
+2,Solano's immaculate bellendSam Watkinson ,43,Sancho RelaxoMike Fill ,39,Win,3.0,4.0
+3,MikeyWade,32,Tyrannoscorus BecksJohn Marsh ,32,Draw,1.0,9.5
+3,Cancelo CultureTim Boorman ,39,In Dulcis Memoria LarkimusEd Dove ,52,Lose,0.0,5.5
+3,ManeBall ⭐️⭐️⭐️Andy Uttley ,42,Howard Brown ⭐️Matt Warmoth ,38,Win,3.0,4.0
+3,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,Solano's immaculate bellendSam Watkinson ,51,Lose,0.0,3.0
+3,Settlers of ZlatanKarl Webster ,38,Sancho RelaxoMike Fill ,39,Lose,0.0,7.5
+3,Tyrannoscorus BecksJohn Marsh ,32,MikeyWade,32,Draw,1.0,9.5
+3,In Dulcis Memoria LarkimusEd Dove ,52,Cancelo CultureTim Boorman ,39,Win,3.0,1.0
+3,Howard Brown ⭐️Matt Warmoth ,38,ManeBall ⭐️⭐️⭐️Andy Uttley ,42,Lose,0.0,7.5
+3,Solano's immaculate bellendSam Watkinson ,51,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,Win,3.0,2.0
+3,Sancho RelaxoMike Fill ,39,Settlers of ZlatanKarl Webster ,38,Win,3.0,5.5
+4,MikeyWade,65,In Dulcis Memoria LarkimusEd Dove ,54,Win,3.0,2.0
+4,Tyrannoscorus BecksJohn Marsh ,36,Howard Brown ⭐️Matt Warmoth ,51,Lose,0.0,9.0
+4,Cancelo CultureTim Boorman ,44,Solano's immaculate bellendSam Watkinson ,50,Lose,0.0,7.0
+4,ManeBall ⭐️⭐️⭐️Andy Uttley ,58,Sancho RelaxoMike Fill ,31,Win,3.0,3.0
+4,Fish ⭐️⭐️⭐️Nicholas Warmoth ,70,Settlers of ZlatanKarl Webster ,41,Win,3.0,1.0
+4,In Dulcis Memoria LarkimusEd Dove ,54,MikeyWade,65,Lose,0.0,4.0
+4,Howard Brown ⭐️Matt Warmoth ,51,Tyrannoscorus BecksJohn Marsh ,36,Win,3.0,5.0
+4,Solano's immaculate bellendSam Watkinson ,50,Cancelo CultureTim Boorman ,44,Win,3.0,6.0
+4,Sancho RelaxoMike Fill ,31,ManeBall ⭐️⭐️⭐️Andy Uttley ,58,Lose,0.0,10.0
+4,Settlers of ZlatanKarl Webster ,41,Fish ⭐️⭐️⭐️Nicholas Warmoth ,70,Lose,0.0,8.0
+5,MikeyWade,41,Howard Brown ⭐️Matt Warmoth ,56,Lose,0.0,5.0
+5,In Dulcis Memoria LarkimusEd Dove ,43,Solano's immaculate bellendSam Watkinson ,26,Win,3.0,4.0
+5,Tyrannoscorus BecksJohn Marsh ,39,Sancho RelaxoMike Fill ,25,Win,3.0,6.5
+5,Cancelo CultureTim Boorman ,39,Settlers of ZlatanKarl Webster ,48,Lose,0.0,6.5
+5,ManeBall ⭐️⭐️⭐️Andy Uttley ,50,Fish ⭐️⭐️⭐️Nicholas Warmoth ,32,Win,3.0,2.0
+5,Howard Brown ⭐️Matt Warmoth ,56,MikeyWade,41,Win,3.0,1.0
+5,Solano's immaculate bellendSam Watkinson ,26,In Dulcis Memoria LarkimusEd Dove ,43,Lose,0.0,9.0
+5,Sancho RelaxoMike Fill ,25,Tyrannoscorus BecksJohn Marsh ,39,Lose,0.0,10.0
+5,Settlers of ZlatanKarl Webster ,48,Cancelo CultureTim Boorman ,39,Win,3.0,3.0
+5,Fish ⭐️⭐️⭐️Nicholas Warmoth ,32,ManeBall ⭐️⭐️⭐️Andy Uttley ,50,Lose,0.0,8.0
+6,MikeyWade,61,Solano's immaculate bellendSam Watkinson ,35,Win,3.0,1.0
+6,Howard Brown ⭐️Matt Warmoth ,44,Sancho RelaxoMike Fill ,28,Win,3.0,4.0
+6,In Dulcis Memoria LarkimusEd Dove ,29,Settlers of ZlatanKarl Webster ,40,Lose,0.0,8.0
+6,Tyrannoscorus BecksJohn Marsh ,54,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,Win,3.0,2.0
+6,Cancelo CultureTim Boorman ,31,ManeBall ⭐️⭐️⭐️Andy Uttley ,28,Win,3.0,7.0
+6,Solano's immaculate bellendSam Watkinson ,35,MikeyWade,61,Lose,0.0,6.0
+6,Sancho RelaxoMike Fill ,28,Howard Brown ⭐️Matt Warmoth ,44,Lose,0.0,9.5
+6,Settlers of ZlatanKarl Webster ,40,In Dulcis Memoria LarkimusEd Dove ,29,Win,3.0,5.0
+6,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,Tyrannoscorus BecksJohn Marsh ,54,Lose,0.0,3.0
+6,ManeBall ⭐️⭐️⭐️Andy Uttley ,28,Cancelo CultureTim Boorman ,31,Lose,0.0,9.5
+7,MikeyWade,0,Sancho RelaxoMike Fill ,0,Draw,1.0,5.5
+7,Solano's immaculate bellendSam Watkinson ,0,Settlers of ZlatanKarl Webster ,0,Draw,1.0,5.5
+7,Howard Brown ⭐️Matt Warmoth ,0,Fish ⭐️⭐️⭐️Nicholas Warmoth ,0,Draw,1.0,5.5
+7,In Dulcis Memoria LarkimusEd Dove ,0,ManeBall ⭐️⭐️⭐️Andy Uttley ,0,Draw,1.0,5.5
+7,Tyrannoscorus BecksJohn Marsh ,0,Cancelo CultureTim Boorman ,0,Draw,1.0,5.5
+7,Sancho RelaxoMike Fill ,0,MikeyWade,0,Draw,1.0,5.5
+7,Settlers of ZlatanKarl Webster ,0,Solano's immaculate bellendSam Watkinson ,0,Draw,1.0,5.5
+7,Fish ⭐️⭐️⭐️Nicholas Warmoth ,0,Howard Brown ⭐️Matt Warmoth ,0,Draw,1.0,5.5
+7,ManeBall ⭐️⭐️⭐️Andy Uttley ,0,In Dulcis Memoria LarkimusEd Dove ,0,Draw,1.0,5.5
+7,Cancelo CultureTim Boorman ,0,Tyrannoscorus BecksJohn Marsh ,0,Draw,1.0,5.5
+8,MikeyWade,35,Settlers of ZlatanKarl Webster ,39,Lose,0.0,5.5
+8,Sancho RelaxoMike Fill ,31,Fish ⭐️⭐️⭐️Nicholas Warmoth ,27,Win,3.0,8.0
+8,Solano's immaculate bellendSam Watkinson ,35,ManeBall ⭐️⭐️⭐️Andy Uttley ,37,Lose,0.0,5.5
+8,Howard Brown ⭐️Matt Warmoth ,43,Cancelo CultureTim Boorman ,14,Win,3.0,1.5
+8,In Dulcis Memoria LarkimusEd Dove ,43,Tyrannoscorus BecksJohn Marsh ,32,Win,3.0,1.5
+8,Settlers of ZlatanKarl Webster ,39,MikeyWade,35,Win,3.0,3.0
+8,Fish ⭐️⭐️⭐️Nicholas Warmoth ,27,Sancho RelaxoMike Fill ,31,Lose,0.0,9.0
+8,ManeBall ⭐️⭐️⭐️Andy Uttley ,37,Solano's immaculate bellendSam Watkinson ,35,Win,3.0,4.0
+8,Cancelo CultureTim Boorman ,14,Howard Brown ⭐️Matt Warmoth ,43,Lose,0.0,10.0
+8,Tyrannoscorus BecksJohn Marsh ,32,In Dulcis Memoria LarkimusEd Dove ,43,Lose,0.0,7.0
+9,MikeyWade,54,Fish ⭐️⭐️⭐️Nicholas Warmoth ,43,Win,3.0,3.0
+9,Settlers of ZlatanKarl Webster ,57,ManeBall ⭐️⭐️⭐️Andy Uttley ,40,Win,3.0,2.0
+9,Sancho RelaxoMike Fill ,32,Cancelo CultureTim Boorman ,81,Lose,0.0,9.0
+9,Solano's immaculate bellendSam Watkinson ,37,Tyrannoscorus BecksJohn Marsh ,37,Draw,1.0,7.5
+9,Howard Brown ⭐️Matt Warmoth ,48,In Dulcis Memoria LarkimusEd Dove ,21,Win,3.0,4.0
+9,Fish ⭐️⭐️⭐️Nicholas Warmoth ,43,MikeyWade,54,Lose,0.0,5.0
+9,ManeBall ⭐️⭐️⭐️Andy Uttley ,40,Settlers of ZlatanKarl Webster ,57,Lose,0.0,6.0
+9,Cancelo CultureTim Boorman ,81,Sancho RelaxoMike Fill ,32,Win,3.0,1.0
+9,Tyrannoscorus BecksJohn Marsh ,37,Solano's immaculate bellendSam Watkinson ,37,Draw,1.0,7.5
+9,In Dulcis Memoria LarkimusEd Dove ,21,Howard Brown ⭐️Matt Warmoth ,48,Lose,0.0,10.0
+10,Fish ⭐️⭐️⭐️Nicholas Warmoth ,29,Solano's immaculate bellendSam Watkinson ,54,Lose,0.0,9.0
+10,MikeyWade,40,Settlers of ZlatanKarl Webster ,48,Lose,0.0,8.0
+10,In Dulcis Memoria LarkimusEd Dove ,46,Sancho RelaxoMike Fill ,48,Lose,0.0,7.0
+10,Howard Brown ⭐️Matt Warmoth ,26,ManeBall ⭐️⭐️⭐️Andy Uttley ,49,Lose,0.0,10.0
+10,Tyrannoscorus BecksJohn Marsh ,66,Cancelo CultureTim Boorman ,49,Win,3.0,1.0
+10,Solano's immaculate bellendSam Watkinson ,54,Fish ⭐️⭐️⭐️Nicholas Warmoth ,29,Win,3.0,2.0
+10,Settlers of ZlatanKarl Webster ,48,MikeyWade,40,Win,3.0,5.5
+10,Sancho RelaxoMike Fill ,48,In Dulcis Memoria LarkimusEd Dove ,46,Win,3.0,5.5
+10,ManeBall ⭐️⭐️⭐️Andy Uttley ,49,Howard Brown ⭐️Matt Warmoth ,26,Win,3.0,3.5
+10,Cancelo CultureTim Boorman ,49,Tyrannoscorus BecksJohn Marsh ,66,Lose,0.0,3.5
+11,Fish ⭐️⭐️⭐️Nicholas Warmoth ,51,Settlers of ZlatanKarl Webster ,47,Win,3.0,2.0
+11,Solano's immaculate bellendSam Watkinson ,36,Sancho RelaxoMike Fill ,40,Lose,0.0,9.0
+11,MikeyWade,54,ManeBall ⭐️⭐️⭐️Andy Uttley ,48,Win,3.0,1.0
+11,In Dulcis Memoria LarkimusEd Dove ,44,Cancelo CultureTim Boorman ,50,Lose,0.0,7.0
+11,Howard Brown ⭐️Matt Warmoth ,45,Tyrannoscorus BecksJohn Marsh ,33,Win,3.0,6.0
+11,Settlers of ZlatanKarl Webster ,47,Fish ⭐️⭐️⭐️Nicholas Warmoth ,51,Lose,0.0,5.0
+11,Sancho RelaxoMike Fill ,40,Solano's immaculate bellendSam Watkinson ,36,Win,3.0,8.0
+11,ManeBall ⭐️⭐️⭐️Andy Uttley ,48,MikeyWade,54,Lose,0.0,4.0
+11,Cancelo CultureTim Boorman ,50,In Dulcis Memoria LarkimusEd Dove ,44,Win,3.0,3.0
+11,Tyrannoscorus BecksJohn Marsh ,33,Howard Brown ⭐️Matt Warmoth ,45,Lose,0.0,10.0
+12,Fish ⭐️⭐️⭐️Nicholas Warmoth ,61,Sancho RelaxoMike Fill ,24,Win,3.0,1.0
+12,Settlers of ZlatanKarl Webster ,40,ManeBall ⭐️⭐️⭐️Andy Uttley ,36,Win,3.0,5.0
+12,Solano's immaculate bellendSam Watkinson ,57,Cancelo CultureTim Boorman ,37,Win,3.0,2.0
+12,MikeyWade,48,Tyrannoscorus BecksJohn Marsh ,39,Win,3.0,3.0
+12,In Dulcis Memoria LarkimusEd Dove ,3,Howard Brown ⭐️Matt Warmoth ,44,Lose,0.0,9.0
+12,Sancho RelaxoMike Fill ,24,Fish ⭐️⭐️⭐️Nicholas Warmoth ,61,Lose,0.0,10.0
+12,ManeBall ⭐️⭐️⭐️Andy Uttley ,36,Settlers of ZlatanKarl Webster ,40,Lose,0.0,8.0
+12,Cancelo CultureTim Boorman ,37,Solano's immaculate bellendSam Watkinson ,57,Lose,0.0,7.0
+12,Tyrannoscorus BecksJohn Marsh ,39,MikeyWade,48,Lose,0.0,6.0
+12,Howard Brown ⭐️Matt Warmoth ,44,In Dulcis Memoria LarkimusEd Dove ,3,Win,3.0,4.0
+13,Fish ⭐️⭐️⭐️Nicholas Warmoth ,45,ManeBall ⭐️⭐️⭐️Andy Uttley ,39,Win,3.0,3.0
+13,Sancho RelaxoMike Fill ,37,Cancelo CultureTim Boorman ,57,Lose,0.0,6.5
+13,Settlers of ZlatanKarl Webster ,37,Tyrannoscorus BecksJohn Marsh ,35,Win,3.0,6.5
+13,Solano's immaculate bellendSam Watkinson ,34,Howard Brown ⭐️Matt Warmoth ,55,Lose,0.0,9.0
+13,MikeyWade,43,In Dulcis Memoria LarkimusEd Dove ,20,Win,3.0,4.0
+13,ManeBall ⭐️⭐️⭐️Andy Uttley ,39,Fish ⭐️⭐️⭐️Nicholas Warmoth ,45,Lose,0.0,5.0
+13,Cancelo CultureTim Boorman ,57,Sancho RelaxoMike Fill ,37,Win,3.0,1.0
+13,Tyrannoscorus BecksJohn Marsh ,35,Settlers of ZlatanKarl Webster ,37,Lose,0.0,8.0
+13,Howard Brown ⭐️Matt Warmoth ,55,Solano's immaculate bellendSam Watkinson ,34,Win,3.0,2.0
+13,In Dulcis Memoria LarkimusEd Dove ,20,MikeyWade,43,Lose,0.0,10.0
+14,Fish ⭐️⭐️⭐️Nicholas Warmoth ,35,Cancelo CultureTim Boorman ,87,Lose,0.0,8.0
+14,ManeBall ⭐️⭐️⭐️Andy Uttley ,43,Tyrannoscorus BecksJohn Marsh ,56,Lose,0.0,7.0
+14,Sancho RelaxoMike Fill ,24,Howard Brown ⭐️Matt Warmoth ,51,Lose,0.0,10.0
+14,Settlers of ZlatanKarl Webster ,50,In Dulcis Memoria LarkimusEd Dove ,52,Lose,0.0,6.0
+14,Solano's immaculate bellendSam Watkinson ,68,MikeyWade,25,Win,3.0,2.0
+14,Cancelo CultureTim Boorman ,87,Fish ⭐️⭐️⭐️Nicholas Warmoth ,35,Win,3.0,1.0
+14,Tyrannoscorus BecksJohn Marsh ,56,ManeBall ⭐️⭐️⭐️Andy Uttley ,43,Win,3.0,3.0
+14,Howard Brown ⭐️Matt Warmoth ,51,Sancho RelaxoMike Fill ,24,Win,3.0,5.0
+14,In Dulcis Memoria LarkimusEd Dove ,52,Settlers of ZlatanKarl Webster ,50,Win,3.0,4.0
+14,MikeyWade,25,Solano's immaculate bellendSam Watkinson ,68,Lose,0.0,9.0
+15,Fish ⭐️⭐️⭐️Nicholas Warmoth ,35,Tyrannoscorus BecksJohn Marsh ,28,Win,3.0,7.0
+15,Cancelo CultureTim Boorman ,32,Howard Brown ⭐️Matt Warmoth ,56,Lose,0.0,8.0
+15,ManeBall ⭐️⭐️⭐️Andy Uttley ,40,In Dulcis Memoria LarkimusEd Dove ,43,Lose,0.0,6.0
+15,Sancho RelaxoMike Fill ,20,MikeyWade,45,Lose,0.0,10.0
+15,Settlers of ZlatanKarl Webster ,49,Solano's immaculate bellendSam Watkinson ,44,Win,3.0,2.0
+15,Tyrannoscorus BecksJohn Marsh ,28,Fish ⭐️⭐️⭐️Nicholas Warmoth ,35,Lose,0.0,9.0
+15,Howard Brown ⭐️Matt Warmoth ,56,Cancelo CultureTim Boorman ,32,Win,3.0,1.0
+15,In Dulcis Memoria LarkimusEd Dove ,43,ManeBall ⭐️⭐️⭐️Andy Uttley ,40,Win,3.0,5.0
+15,MikeyWade,45,Sancho RelaxoMike Fill ,20,Win,3.0,3.0
+15,Solano's immaculate bellendSam Watkinson ,44,Settlers of ZlatanKarl Webster ,49,Lose,0.0,4.0
+16,Fish ⭐️⭐️⭐️Nicholas Warmoth ,39,Howard Brown ⭐️Matt Warmoth ,37,Win,3.0,6.0
+16,Tyrannoscorus BecksJohn Marsh ,40,In Dulcis Memoria LarkimusEd Dove ,35,Win,3.0,5.0
+16,Cancelo CultureTim Boorman ,51,MikeyWade,36,Win,3.0,3.0
+16,ManeBall ⭐️⭐️⭐️Andy Uttley ,42,Solano's immaculate bellendSam Watkinson ,59,Lose,0.0,4.0
+16,Sancho RelaxoMike Fill ,28,Settlers of ZlatanKarl Webster ,58,Lose,0.0,10.0
+16,Howard Brown ⭐️Matt Warmoth ,37,Fish ⭐️⭐️⭐️Nicholas Warmoth ,39,Lose,0.0,7.0
+16,In Dulcis Memoria LarkimusEd Dove ,35,Tyrannoscorus BecksJohn Marsh ,40,Lose,0.0,9.0
+16,MikeyWade,36,Cancelo CultureTim Boorman ,51,Lose,0.0,8.0
+16,Solano's immaculate bellendSam Watkinson ,59,ManeBall ⭐️⭐️⭐️Andy Uttley ,42,Win,3.0,1.0
+16,Settlers of ZlatanKarl Webster ,58,Sancho RelaxoMike Fill ,28,Win,3.0,2.0
+17,Fish ⭐️⭐️⭐️Nicholas Warmoth ,58,In Dulcis Memoria LarkimusEd Dove ,40,Win,3.0,1.0
+17,Howard Brown ⭐️Matt Warmoth ,44,MikeyWade,43,Win,3.0,6.0
+17,Tyrannoscorus BecksJohn Marsh ,34,Solano's immaculate bellendSam Watkinson ,49,Lose,0.0,10.0
+17,Cancelo CultureTim Boorman ,49,Settlers of ZlatanKarl Webster ,57,Lose,0.0,3.5
+17,ManeBall ⭐️⭐️⭐️Andy Uttley ,47,Sancho RelaxoMike Fill ,39,Win,3.0,5.0
+17,In Dulcis Memoria LarkimusEd Dove ,40,Fish ⭐️⭐️⭐️Nicholas Warmoth ,58,Lose,0.0,8.0
+17,MikeyWade,43,Howard Brown ⭐️Matt Warmoth ,44,Lose,0.0,7.0
+17,Solano's immaculate bellendSam Watkinson ,49,Tyrannoscorus BecksJohn Marsh ,34,Win,3.0,3.5
+17,Settlers of ZlatanKarl Webster ,57,Cancelo CultureTim Boorman ,49,Win,3.0,2.0
+17,Sancho RelaxoMike Fill ,39,ManeBall ⭐️⭐️⭐️Andy Uttley ,47,Lose,0.0,9.0
+18,Fish ⭐️⭐️⭐️Nicholas Warmoth ,44,MikeyWade,39,Win,3.0,4.0
+18,In Dulcis Memoria LarkimusEd Dove ,23,Solano's immaculate bellendSam Watkinson ,50,Lose,0.0,9.0
+18,Howard Brown ⭐️Matt Warmoth ,28,Settlers of ZlatanKarl Webster ,31,Lose,0.0,8.0
+18,Tyrannoscorus BecksJohn Marsh ,50,Sancho RelaxoMike Fill ,18,Win,3.0,1.5
+18,Cancelo CultureTim Boorman ,42,ManeBall ⭐️⭐️⭐️Andy Uttley ,47,Lose,0.0,5.0
+18,MikeyWade,39,Fish ⭐️⭐️⭐️Nicholas Warmoth ,44,Lose,0.0,6.0
+18,Solano's immaculate bellendSam Watkinson ,50,In Dulcis Memoria LarkimusEd Dove ,23,Win,3.0,1.5
+18,Settlers of ZlatanKarl Webster ,31,Howard Brown ⭐️Matt Warmoth ,28,Win,3.0,7.0
+18,Sancho RelaxoMike Fill ,18,Tyrannoscorus BecksJohn Marsh ,50,Lose,0.0,10.0
+18,ManeBall ⭐️⭐️⭐️Andy Uttley ,47,Cancelo CultureTim Boorman ,42,Win,3.0,3.0
+19,Settlers of ZlatanKarl Webster ,53,Tyrannoscorus BecksJohn Marsh ,39,Win,3.0,4.0
+19,Cancelo CultureTim Boorman ,38,Sancho RelaxoMike Fill ,36,Win,3.0,9.0
+19,Fish ⭐️⭐️⭐️Nicholas Warmoth ,55,Solano's immaculate bellendSam Watkinson ,46,Win,3.0,3.0
+19,ManeBall ⭐️⭐️⭐️Andy Uttley ,51,MikeyWade,56,Lose,0.0,5.0
+19,Howard Brown ⭐️Matt Warmoth ,58,In Dulcis Memoria LarkimusEd Dove ,40,Win,3.0,1.0
+19,Tyrannoscorus BecksJohn Marsh ,39,Settlers of ZlatanKarl Webster ,53,Lose,0.0,8.0
+19,Sancho RelaxoMike Fill ,36,Cancelo CultureTim Boorman ,38,Lose,0.0,10.0
+19,Solano's immaculate bellendSam Watkinson ,46,Fish ⭐️⭐️⭐️Nicholas Warmoth ,55,Lose,0.0,6.0
+19,MikeyWade,56,ManeBall ⭐️⭐️⭐️Andy Uttley ,51,Win,3.0,2.0
+19,In Dulcis Memoria LarkimusEd Dove ,40,Howard Brown ⭐️Matt Warmoth ,58,Lose,0.0,7.0
+20,Settlers of ZlatanKarl Webster ,49,Sancho RelaxoMike Fill ,49,Draw,1.0,5.5
+20,Tyrannoscorus BecksJohn Marsh ,39,Solano's immaculate bellendSam Watkinson ,53,Lose,0.0,9.0
+20,Cancelo CultureTim Boorman ,38,MikeyWade,41,Lose,0.0,10.0
+20,Fish ⭐️⭐️⭐️Nicholas Warmoth ,70,In Dulcis Memoria LarkimusEd Dove ,69,Win,3.0,1.0
+20,ManeBall ⭐️⭐️⭐️Andy Uttley ,53,Howard Brown ⭐️Matt Warmoth ,43,Win,3.0,3.5
+20,Sancho RelaxoMike Fill ,49,Settlers of ZlatanKarl Webster ,49,Draw,1.0,5.5
+20,Solano's immaculate bellendSam Watkinson ,53,Tyrannoscorus BecksJohn Marsh ,39,Win,3.0,3.5
+20,MikeyWade,41,Cancelo CultureTim Boorman ,38,Win,3.0,8.0
+20,In Dulcis Memoria LarkimusEd Dove ,69,Fish ⭐️⭐️⭐️Nicholas Warmoth ,70,Lose,0.0,2.0
+20,Howard Brown ⭐️Matt Warmoth ,43,ManeBall ⭐️⭐️⭐️Andy Uttley ,53,Lose,0.0,7.0
+21,Settlers of ZlatanKarl Webster ,36,Solano's immaculate bellendSam Watkinson ,44,Lose,0.0,9.0
+21,Sancho RelaxoMike Fill ,55,MikeyWade,54,Win,3.0,2.0
+21,Tyrannoscorus BecksJohn Marsh ,34,In Dulcis Memoria LarkimusEd Dove ,43,Lose,0.0,10.0
+21,Cancelo CultureTim Boorman ,37,Howard Brown ⭐️Matt Warmoth ,60,Lose,0.0,8.0
+21,Fish ⭐️⭐️⭐️Nicholas Warmoth ,53,ManeBall ⭐️⭐️⭐️Andy Uttley ,44,Win,3.0,4.0
+21,Solano's immaculate bellendSam Watkinson ,44,Settlers of ZlatanKarl Webster ,36,Win,3.0,5.5
+21,MikeyWade,54,Sancho RelaxoMike Fill ,55,Lose,0.0,3.0
+21,In Dulcis Memoria LarkimusEd Dove ,43,Tyrannoscorus BecksJohn Marsh ,34,Win,3.0,7.0
+21,Howard Brown ⭐️Matt Warmoth ,60,Cancelo CultureTim Boorman ,37,Win,3.0,1.0
+21,ManeBall ⭐️⭐️⭐️Andy Uttley ,44,Fish ⭐️⭐️⭐️Nicholas Warmoth ,53,Lose,0.0,5.5
+22,Settlers of ZlatanKarl Webster ,22,MikeyWade,59,Lose,0.0,9.5
+22,Solano's immaculate bellendSam Watkinson ,24,In Dulcis Memoria LarkimusEd Dove ,23,Win,3.0,7.0
+22,Sancho RelaxoMike Fill ,67,Howard Brown ⭐️Matt Warmoth ,32,Win,3.0,2.0
+22,Tyrannoscorus BecksJohn Marsh ,61,ManeBall ⭐️⭐️⭐️Andy Uttley ,22,Win,3.0,3.0
+22,Cancelo CultureTim Boorman ,39,Fish ⭐️⭐️⭐️Nicholas Warmoth ,75,Lose,0.0,5.0
+22,MikeyWade,59,Settlers of ZlatanKarl Webster ,22,Win,3.0,4.0
+22,In Dulcis Memoria LarkimusEd Dove ,23,Solano's immaculate bellendSam Watkinson ,24,Lose,0.0,8.0
+22,Howard Brown ⭐️Matt Warmoth ,32,Sancho RelaxoMike Fill ,67,Lose,0.0,6.0
+22,ManeBall ⭐️⭐️⭐️Andy Uttley ,22,Tyrannoscorus BecksJohn Marsh ,61,Lose,0.0,9.5
+22,Fish ⭐️⭐️⭐️Nicholas Warmoth ,75,Cancelo CultureTim Boorman ,39,Win,3.0,1.0
+23,Settlers of ZlatanKarl Webster ,50,In Dulcis Memoria LarkimusEd Dove ,69,Lose,0.0,5.0
+23,MikeyWade,35,Howard Brown ⭐️Matt Warmoth ,53,Lose,0.0,9.0
+23,Solano's immaculate bellendSam Watkinson ,31,ManeBall ⭐️⭐️⭐️Andy Uttley ,65,Lose,0.0,10.0
+23,Sancho RelaxoMike Fill ,46,Fish ⭐️⭐️⭐️Nicholas Warmoth ,41,Win,3.0,6.0
+23,Tyrannoscorus BecksJohn Marsh ,51,Cancelo CultureTim Boorman ,39,Win,3.0,4.0
+23,In Dulcis Memoria LarkimusEd Dove ,69,Settlers of ZlatanKarl Webster ,50,Win,3.0,1.0
+23,Howard Brown ⭐️Matt Warmoth ,53,MikeyWade,35,Win,3.0,3.0
+23,ManeBall ⭐️⭐️⭐️Andy Uttley ,65,Solano's immaculate bellendSam Watkinson ,31,Win,3.0,2.0
+23,Fish ⭐️⭐️⭐️Nicholas Warmoth ,41,Sancho RelaxoMike Fill ,46,Lose,0.0,7.0
+23,Cancelo CultureTim Boorman ,39,Tyrannoscorus BecksJohn Marsh ,51,Lose,0.0,8.0
+24,Settlers of ZlatanKarl Webster ,25,Howard Brown ⭐️Matt Warmoth ,39,Lose,0.0,10.0
+24,In Dulcis Memoria LarkimusEd Dove ,37,ManeBall ⭐️⭐️⭐️Andy Uttley ,29,Win,3.0,4.0
+24,MikeyWade,33,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,Lose,0.0,6.5
+24,Solano's immaculate bellendSam Watkinson ,29,Cancelo CultureTim Boorman ,33,Lose,0.0,8.5
+24,Sancho RelaxoMike Fill ,36,Tyrannoscorus BecksJohn Marsh ,52,Lose,0.0,5.0
+24,Howard Brown ⭐️Matt Warmoth ,39,Settlers of ZlatanKarl Webster ,25,Win,3.0,3.0
+24,ManeBall ⭐️⭐️⭐️Andy Uttley ,29,In Dulcis Memoria LarkimusEd Dove ,37,Lose,0.0,8.5
+24,Fish ⭐️⭐️⭐️Nicholas Warmoth ,50,MikeyWade,33,Win,3.0,2.0
+24,Cancelo CultureTim Boorman ,33,Solano's immaculate bellendSam Watkinson ,29,Win,3.0,6.5
+24,Tyrannoscorus BecksJohn Marsh ,52,Sancho RelaxoMike Fill ,36,Win,3.0,1.0
+25,Settlers of ZlatanKarl Webster ,66,ManeBall ⭐️⭐️⭐️Andy Uttley ,64,Win,3.0,3.0
+25,Howard Brown ⭐️Matt Warmoth ,78,Fish ⭐️⭐️⭐️Nicholas Warmoth ,91,Lose,0.0,2.0
+25,In Dulcis Memoria LarkimusEd Dove ,57,Cancelo CultureTim Boorman ,27,Win,3.0,5.0
+25,MikeyWade,44,Tyrannoscorus BecksJohn Marsh ,25,Win,3.0,6.0
+25,Solano's immaculate bellendSam Watkinson ,35,Sancho RelaxoMike Fill ,23,Win,3.0,7.0
+25,ManeBall ⭐️⭐️⭐️Andy Uttley ,64,Settlers of ZlatanKarl Webster ,66,Lose,0.0,4.0
+25,Fish ⭐️⭐️⭐️Nicholas Warmoth ,91,Howard Brown ⭐️Matt Warmoth ,78,Win,3.0,1.0
+25,Cancelo CultureTim Boorman ,27,In Dulcis Memoria LarkimusEd Dove ,57,Lose,0.0,8.0
+25,Tyrannoscorus BecksJohn Marsh ,25,MikeyWade,44,Lose,0.0,9.0
+25,Sancho RelaxoMike Fill ,23,Solano's immaculate bellendSam Watkinson ,35,Lose,0.0,10.0
+26,Settlers of ZlatanKarl Webster ,94,Fish ⭐️⭐️⭐️Nicholas Warmoth ,49,Win,3.0,1.0
+26,ManeBall ⭐️⭐️⭐️Andy Uttley ,31,Cancelo CultureTim Boorman ,35,Lose,0.0,9.5
+26,Howard Brown ⭐️Matt Warmoth ,31,Tyrannoscorus BecksJohn Marsh ,71,Lose,0.0,9.5
+26,In Dulcis Memoria LarkimusEd Dove ,37,Sancho RelaxoMike Fill ,38,Lose,0.0,7.0
+26,MikeyWade,42,Solano's immaculate bellendSam Watkinson ,50,Lose,0.0,5.0
+26,Fish ⭐️⭐️⭐️Nicholas Warmoth ,49,Settlers of ZlatanKarl Webster ,94,Lose,0.0,4.0
+26,Cancelo CultureTim Boorman ,35,ManeBall ⭐️⭐️⭐️Andy Uttley ,31,Win,3.0,8.0
+26,Tyrannoscorus BecksJohn Marsh ,71,Howard Brown ⭐️Matt Warmoth ,31,Win,3.0,2.0
+26,Sancho RelaxoMike Fill ,38,In Dulcis Memoria LarkimusEd Dove ,37,Win,3.0,6.0
+26,Solano's immaculate bellendSam Watkinson ,50,MikeyWade,42,Win,3.0,3.0
+27,Settlers of ZlatanKarl Webster ,59,Cancelo CultureTim Boorman ,45,Win,3.0,4.0
+27,Fish ⭐️⭐️⭐️Nicholas Warmoth ,54,Tyrannoscorus BecksJohn Marsh ,49,Win,3.0,5.5
+27,ManeBall ⭐️⭐️⭐️Andy Uttley ,69,Sancho RelaxoMike Fill ,46,Win,3.0,1.0
+27,Howard Brown ⭐️Matt Warmoth ,64,Solano's immaculate bellendSam Watkinson ,53,Win,3.0,3.0
+27,In Dulcis Memoria LarkimusEd Dove ,54,MikeyWade,65,Lose,0.0,5.5
+27,Cancelo CultureTim Boorman ,45,Settlers of ZlatanKarl Webster ,59,Lose,0.0,10.0
+27,Tyrannoscorus BecksJohn Marsh ,49,Fish ⭐️⭐️⭐️Nicholas Warmoth ,54,Lose,0.0,8.0
+27,Sancho RelaxoMike Fill ,46,ManeBall ⭐️⭐️⭐️Andy Uttley ,69,Lose,0.0,9.0
+27,Solano's immaculate bellendSam Watkinson ,53,Howard Brown ⭐️Matt Warmoth ,64,Lose,0.0,7.0
+27,MikeyWade,65,In Dulcis Memoria LarkimusEd Dove ,54,Win,3.0,2.0
+28,Howard Brown ⭐️Matt Warmoth ,42,ManeBall ⭐️⭐️⭐️Andy Uttley ,50,Lose,0.0,3.0
+28,Tyrannoscorus BecksJohn Marsh ,13,Sancho RelaxoMike Fill ,43,Lose,0.0,10.0
+28,Solano's immaculate bellendSam Watkinson ,35,MikeyWade,39,Lose,0.0,6.0
+28,Cancelo CultureTim Boorman ,28,Settlers of ZlatanKarl Webster ,20,Win,3.0,8.0
+28,In Dulcis Memoria LarkimusEd Dove ,41,Fish ⭐️⭐️⭐️Nicholas Warmoth ,30,Win,3.0,4.0
+28,ManeBall ⭐️⭐️⭐️Andy Uttley ,50,Howard Brown ⭐️Matt Warmoth ,42,Win,3.0,1.0
+28,Sancho RelaxoMike Fill ,43,Tyrannoscorus BecksJohn Marsh ,13,Win,3.0,2.0
+28,MikeyWade,39,Solano's immaculate bellendSam Watkinson ,35,Win,3.0,5.0
+28,Settlers of ZlatanKarl Webster ,20,Cancelo CultureTim Boorman ,28,Lose,0.0,9.0
+28,Fish ⭐️⭐️⭐️Nicholas Warmoth ,30,In Dulcis Memoria LarkimusEd Dove ,41,Lose,0.0,7.0
